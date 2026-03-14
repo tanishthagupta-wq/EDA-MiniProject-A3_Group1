@@ -1,0 +1,725 @@
+Timestamp,Starting Point,Destination,Primary Mode of Transport,Secondary Mode of Transport (If your trip involves multiple legs),Time of Day You Usually Travel,Average Total Travel Time (in minutes),Average Total One-Way Cost (in ₹),Major Delay Points / Bottlenecks on this Route,Overall Satisfaction with this Commute
+3/7/2026 9:02,Other,Kharadi,Metro,PMPML City Bus,Morning Peak (8 AM - 11 AM),41,27,Chandni Chowk,2
+3/7/2026 9:08,Kothrud,Pune Station,Metro,PMPML City Bus,Night (After 8 PM),54,26,Hinjewadi Traffic,5
+3/7/2026 9:10,Pashan,Viman Nagar,Personal Two-Wheeler,PMPML City Bus,Morning Peak (8 AM - 11 AM),45,99,None,1
+3/7/2026 9:15,Wakad,Kharadi,Metro,Metro,Evening Peak (4 PM - 8 PM),33,16,None,3
+3/7/2026 9:52,SIT Lavale Campus,Swargate,Carpool,Metro,Morning Peak (8 AM - 11 AM),57,91,Chandni Chowk,2
+3/7/2026 10:39,Wakad,Swargate,Personal Two-Wheeler,Cab (Ola/Uber),Night (After 8 PM),38,79,Chandni Chowk,5
+3/7/2026 10:40,SIT Lavale Campus,Pune Station,Metro,None (Direct Trip),Morning Peak (8 AM - 11 AM),50,20,University Circle,1
+3/7/2026 10:43,Other,Hinjewadi,Cab (Ola/Uber),Metro,Morning Peak (8 AM - 11 AM),43,310,None,4
+3/7/2026 10:51,Other,Kharadi,Metro,Walking,Midday (11 AM - 4 PM),57,28,Yerawada/Kalyani Nagar junction,5
+3/7/2026 11:00,Other,Viman Nagar,PMPML City Bus,Auto Rickshaw,Midday (11 AM - 4 PM),56,47,Chandni Chowk,2
+3/7/2026 11:02,Shivajinagar,Swargate,Auto Rickshaw,PMPML City Bus,Night (After 8 PM),62,284,None,3
+3/7/2026 11:08,Baner,Other,Metro,Metro,Evening Peak (4 PM - 8 PM),20,10,Waiting for Bus/Metro,2
+3/7/2026 11:40,Shivajinagar,Viman Nagar,Auto Rickshaw,Cab (Ola/Uber),Morning Peak (8 AM - 11 AM),33,419,Waiting for Bus/Metro,1
+3/7/2026 11:41,Baner,Pune Station,Personal Two-Wheeler,None (Direct Trip),Evening Peak (4 PM - 8 PM),51,43,University Circle,5
+3/7/2026 11:53,Baner,Kharadi,Metro,None (Direct Trip),Morning Peak (8 AM - 11 AM),31,28,Yerawada/Kalyani Nagar junction,3
+3/7/2026 11:54,Kothrud,Other,Carpool,PMPML City Bus,Morning Peak (8 AM - 11 AM),38,74,Hinjewadi Traffic,1
+3/7/2026 12:09,Shivajinagar,Pune Station,Cab (Ola/Uber),None (Direct Trip),Midday (11 AM - 4 PM),61,421,University Circle,4
+3/7/2026 12:58,Kothrud,Hinjewadi,PMPML City Bus,Walking,Midday (11 AM - 4 PM),105,43,Chandni Chowk,3
+3/7/2026 13:03,Kothrud,Kharadi,Cab (Ola/Uber),Metro,Evening Peak (4 PM - 8 PM),47,335,Yerawada/Kalyani Nagar junction,2
+3/7/2026 13:06,Other,Swargate,Personal Two-Wheeler,Auto Rickshaw,Evening Peak (4 PM - 8 PM),61,100,None,2
+3/7/2026 13:49,Baner,Viman Nagar,Auto Rickshaw,Cab (Ola/Uber),Evening Peak (4 PM - 8 PM),57,335,Waiting for Bus/Metro,3
+3/7/2026 14:27,SIT Lavale Campus,Hinjewadi,Auto Rickshaw,PMPML City Bus,Night (After 8 PM),42,318,Hinjewadi Traffic,1
+3/7/2026 14:45,Kothrud,Other,PMPML City Bus,Cab (Ola/Uber),Midday (11 AM - 4 PM),78,50,University Circle,3
+3/7/2026 14:52,Shivajinagar,Other,Auto Rickshaw,Cab (Ola/Uber),Evening Peak (4 PM - 8 PM),72,415,University Circle,5
+3/7/2026 15:00,SIT Lavale Campus,Hinjewadi,Cab (Ola/Uber),PMPML City Bus,Evening Peak (4 PM - 8 PM),63,210,Waiting for Bus/Metro,2
+3/7/2026 15:09,Kothrud,Pune Station,Carpool,Walking,Evening Peak (4 PM - 8 PM),75,66,None,1
+3/7/2026 15:39,SIT Lavale Campus,Viman Nagar,Carpool,Auto Rickshaw,Night (After 8 PM),59,82,University Circle,4
+3/7/2026 16:20,SIT Lavale Campus,Hinjewadi,PMPML City Bus,Walking,Evening Peak (4 PM - 8 PM),76,45,University Circle,1
+3/7/2026 16:26,Shivajinagar,Swargate,Metro,Metro,Night (After 8 PM),21,13,Waiting for Bus/Metro,5
+3/7/2026 16:27,Wakad,Pune Station,PMPML City Bus,Cab (Ola/Uber),Midday (11 AM - 4 PM),75,48,Waiting for Bus/Metro,2
+3/7/2026 16:31,Shivajinagar,Hinjewadi,Auto Rickshaw,Cab (Ola/Uber),Midday (11 AM - 4 PM),30,164,Chandni Chowk,1
+3/7/2026 16:50,Shivajinagar,Other,Cab (Ola/Uber),Walking,Evening Peak (4 PM - 8 PM),79,174,Chandni Chowk,1
+3/7/2026 17:17,Kothrud,Pune Station,Carpool,PMPML City Bus,Morning Peak (8 AM - 11 AM),66,55,Yerawada/Kalyani Nagar junction,5
+3/7/2026 17:20,Baner,Swargate,Cab (Ola/Uber),Walking,Night (After 8 PM),49,304,University Circle,4
+3/7/2026 17:26,Other,Kharadi,Auto Rickshaw,PMPML City Bus,Night (After 8 PM),55,269,Waiting for Bus/Metro,2
+3/7/2026 17:27,SIT Lavale Campus,Viman Nagar,Carpool,PMPML City Bus,Midday (11 AM - 4 PM),38,72,None,5
+3/7/2026 17:33,Baner,Swargate,Metro,PMPML City Bus,Morning Peak (8 AM - 11 AM),47,31,None,1
+3/7/2026 18:10,Baner,Kharadi,PMPML City Bus,Cab (Ola/Uber),Midday (11 AM - 4 PM),71,48,Hinjewadi Traffic,5
+3/7/2026 18:13,Wakad,Pune Station,Auto Rickshaw,Auto Rickshaw,Evening Peak (4 PM - 8 PM),53,196,Hinjewadi Traffic,4
+3/7/2026 18:27,Other,Kharadi,Carpool,PMPML City Bus,Night (After 8 PM),41,53,Yerawada/Kalyani Nagar junction,2
+3/7/2026 18:40,Baner,Viman Nagar,Cab (Ola/Uber),PMPML City Bus,Morning Peak (8 AM - 11 AM),64,191,Waiting for Bus/Metro,3
+3/7/2026 18:45,Wakad,Swargate,Auto Rickshaw,Metro,Midday (11 AM - 4 PM),36,351,Waiting for Bus/Metro,5
+3/7/2026 18:50,Pashan,Swargate,Carpool,Cab (Ola/Uber),Morning Peak (8 AM - 11 AM),70,48,Yerawada/Kalyani Nagar junction,5
+3/7/2026 19:23,Pashan,Swargate,Auto Rickshaw,Cab (Ola/Uber),Evening Peak (4 PM - 8 PM),86,234,Hinjewadi Traffic,5
+3/7/2026 19:26,Pashan,Viman Nagar,Carpool,PMPML City Bus,Night (After 8 PM),34,87,Yerawada/Kalyani Nagar junction,2
+3/7/2026 19:39,Wakad,Viman Nagar,PMPML City Bus,None (Direct Trip),Midday (11 AM - 4 PM),77,21,None,2
+3/7/2026 19:47,Kothrud,Viman Nagar,PMPML City Bus,PMPML City Bus,Morning Peak (8 AM - 11 AM),106,44,Waiting for Bus/Metro,2
+3/7/2026 19:51,Pashan,Swargate,Personal Two-Wheeler,Metro,Midday (11 AM - 4 PM),25,51,Waiting for Bus/Metro,3
+3/7/2026 20:05,Other,Kharadi,PMPML City Bus,Metro,Midday (11 AM - 4 PM),66,22,University Circle,2
+3/7/2026 20:35,SIT Lavale Campus,Hinjewadi,Auto Rickshaw,Cab (Ola/Uber),Midday (11 AM - 4 PM),39,195,Waiting for Bus/Metro,1
+3/7/2026 20:39,Kothrud,Kharadi,Cab (Ola/Uber),Walking,Morning Peak (8 AM - 11 AM),57,392,None,1
+3/7/2026 20:40,Kothrud,Hinjewadi,Carpool,PMPML City Bus,Morning Peak (8 AM - 11 AM),39,85,None,3
+3/7/2026 20:51,Kothrud,Kharadi,PMPML City Bus,Auto Rickshaw,Night (After 8 PM),84,31,None,2
+3/7/2026 21:11,Pashan,Hinjewadi,Metro,Walking,Night (After 8 PM),24,12,None,3
+3/7/2026 21:13,Baner,Pune Station,Carpool,Metro,Evening Peak (4 PM - 8 PM),35,40,None,5
+3/7/2026 21:48,Kothrud,Other,Metro,Cab (Ola/Uber),Midday (11 AM - 4 PM),56,15,None,4
+3/7/2026 21:54,Baner,Kharadi,PMPML City Bus,PMPML City Bus,Midday (11 AM - 4 PM),107,42,Waiting for Bus/Metro,5
+3/7/2026 22:09,Kothrud,Pune Station,Cab (Ola/Uber),Metro,Evening Peak (4 PM - 8 PM),67,259,University Circle,3
+3/7/2026 22:25,SIT Lavale Campus,Pune Station,Personal Two-Wheeler,Metro,Morning Peak (8 AM - 11 AM),36,75,None,5
+3/7/2026 22:32,SIT Lavale Campus,Other,Metro,None (Direct Trip),Evening Peak (4 PM - 8 PM),33,13,University Circle,3
+3/7/2026 22:34,Shivajinagar,Pune Station,PMPML City Bus,PMPML City Bus,Midday (11 AM - 4 PM),62,37,Chandni Chowk,2
+3/7/2026 22:56,Wakad,Swargate,Auto Rickshaw,PMPML City Bus,Night (After 8 PM),43,403,Waiting for Bus/Metro,2
+3/7/2026 23:14,Other,Viman Nagar,Metro,Metro,Night (After 8 PM),38,29,Hinjewadi Traffic,3
+3/8/2026 0:21,Shivajinagar,Other,Personal Two-Wheeler,PMPML City Bus,Night (After 8 PM),75,47,Hinjewadi Traffic,1
+3/8/2026 0:40,Kothrud,Hinjewadi,Auto Rickshaw,Walking,Evening Peak (4 PM - 8 PM),87,267,None,5
+3/8/2026 0:41,Wakad,Viman Nagar,Cab (Ola/Uber),Metro,Evening Peak (4 PM - 8 PM),79,254,Waiting for Bus/Metro,1
+3/8/2026 0:42,Shivajinagar,Hinjewadi,Metro,Walking,Evening Peak (4 PM - 8 PM),40,26,Waiting for Bus/Metro,3
+3/8/2026 0:46,Kothrud,Pune Station,Personal Two-Wheeler,None (Direct Trip),Midday (11 AM - 4 PM),34,85,Chandni Chowk,1
+3/8/2026 0:55,Other,Kharadi,PMPML City Bus,PMPML City Bus,Night (After 8 PM),97,16,Chandni Chowk,4
+3/8/2026 0:55,Other,Viman Nagar,Carpool,Cab (Ola/Uber),Night (After 8 PM),29,64,Yerawada/Kalyani Nagar junction,4
+3/8/2026 1:00,Kothrud,Kharadi,Cab (Ola/Uber),Cab (Ola/Uber),Night (After 8 PM),30,294,None,3
+3/8/2026 1:18,Pashan,Swargate,Personal Two-Wheeler,PMPML City Bus,Evening Peak (4 PM - 8 PM),53,47,Hinjewadi Traffic,1
+3/8/2026 1:25,Other,Hinjewadi,Personal Two-Wheeler,Metro,Morning Peak (8 AM - 11 AM),28,46,Waiting for Bus/Metro,5
+3/8/2026 1:47,Baner,Hinjewadi,Auto Rickshaw,Walking,Evening Peak (4 PM - 8 PM),74,269,None,3
+3/8/2026 1:56,Pashan,Swargate,Cab (Ola/Uber),None (Direct Trip),Midday (11 AM - 4 PM),33,168,Waiting for Bus/Metro,2
+3/8/2026 2:30,Baner,Swargate,Personal Two-Wheeler,Auto Rickshaw,Morning Peak (8 AM - 11 AM),64,98,Hinjewadi Traffic,4
+3/8/2026 3:05,Shivajinagar,Other,PMPML City Bus,None (Direct Trip),Morning Peak (8 AM - 11 AM),91,25,University Circle,4
+3/8/2026 3:09,Wakad,Hinjewadi,Auto Rickshaw,Auto Rickshaw,Night (After 8 PM),41,337,Yerawada/Kalyani Nagar junction,4
+3/8/2026 3:09,Wakad,Pune Station,Cab (Ola/Uber),Metro,Morning Peak (8 AM - 11 AM),30,265,Chandni Chowk,2
+3/8/2026 3:15,Shivajinagar,Other,Cab (Ola/Uber),None (Direct Trip),Morning Peak (8 AM - 11 AM),75,322,University Circle,1
+3/8/2026 3:20,SIT Lavale Campus,Pune Station,Cab (Ola/Uber),Walking,Evening Peak (4 PM - 8 PM),63,413,Hinjewadi Traffic,1
+3/8/2026 3:47,Shivajinagar,Hinjewadi,PMPML City Bus,None (Direct Trip),Midday (11 AM - 4 PM),71,20,Yerawada/Kalyani Nagar junction,1
+3/8/2026 3:51,Other,Kharadi,Personal Two-Wheeler,Walking,Morning Peak (8 AM - 11 AM),76,45,Hinjewadi Traffic,2
+3/8/2026 4:08,Wakad,Viman Nagar,Cab (Ola/Uber),Metro,Evening Peak (4 PM - 8 PM),65,415,University Circle,5
+3/8/2026 4:49,Other,Hinjewadi,Metro,None (Direct Trip),Morning Peak (8 AM - 11 AM),36,28,Hinjewadi Traffic,5
+3/8/2026 4:50,SIT Lavale Campus,Viman Nagar,Metro,Cab (Ola/Uber),Morning Peak (8 AM - 11 AM),32,33,None,3
+3/8/2026 4:51,Other,Pune Station,Carpool,PMPML City Bus,Midday (11 AM - 4 PM),67,98,Hinjewadi Traffic,4
+3/8/2026 5:19,Other,Kharadi,Metro,Metro,Evening Peak (4 PM - 8 PM),49,13,Hinjewadi Traffic,1
+3/8/2026 5:29,Kothrud,Viman Nagar,Auto Rickshaw,Walking,Evening Peak (4 PM - 8 PM),86,248,Hinjewadi Traffic,5
+3/8/2026 5:55,Kothrud,Pune Station,PMPML City Bus,Auto Rickshaw,Midday (11 AM - 4 PM),67,23,Waiting for Bus/Metro,2
+3/8/2026 5:59,Kothrud,Viman Nagar,PMPML City Bus,Auto Rickshaw,Evening Peak (4 PM - 8 PM),48,50,Hinjewadi Traffic,2
+3/8/2026 6:47,Kothrud,Pune Station,PMPML City Bus,PMPML City Bus,Evening Peak (4 PM - 8 PM),80,35,None,5
+3/8/2026 6:48,Pashan,Swargate,Cab (Ola/Uber),Auto Rickshaw,Morning Peak (8 AM - 11 AM),44,355,Hinjewadi Traffic,2
+3/8/2026 6:52,Kothrud,Swargate,Cab (Ola/Uber),None (Direct Trip),Evening Peak (4 PM - 8 PM),50,434,Hinjewadi Traffic,2
+3/8/2026 7:07,Wakad,Kharadi,Personal Two-Wheeler,Auto Rickshaw,Midday (11 AM - 4 PM),25,52,Chandni Chowk,5
+3/8/2026 7:13,SIT Lavale Campus,Other,PMPML City Bus,Auto Rickshaw,Night (After 8 PM),84,47,Chandni Chowk,4
+3/8/2026 7:39,Wakad,Kharadi,Metro,Walking,Morning Peak (8 AM - 11 AM),25,31,Hinjewadi Traffic,2
+3/8/2026 7:40,Wakad,Pune Station,PMPML City Bus,PMPML City Bus,Midday (11 AM - 4 PM),65,41,Chandni Chowk,5
+3/8/2026 7:54,Kothrud,Viman Nagar,PMPML City Bus,Metro,Evening Peak (4 PM - 8 PM),66,33,Yerawada/Kalyani Nagar junction,3
+3/8/2026 8:08,Other,Pune Station,PMPML City Bus,None (Direct Trip),Midday (11 AM - 4 PM),113,23,Yerawada/Kalyani Nagar junction,5
+3/8/2026 8:25,Shivajinagar,Swargate,Personal Two-Wheeler,Metro,Evening Peak (4 PM - 8 PM),67,45,Chandni Chowk,1
+3/8/2026 8:36,Other,Viman Nagar,Personal Two-Wheeler,Walking,Night (After 8 PM),26,48,Chandni Chowk,2
+3/8/2026 8:59,SIT Lavale Campus,Pune Station,Metro,Metro,Evening Peak (4 PM - 8 PM),51,29,Chandni Chowk,2
+3/8/2026 9:05,SIT Lavale Campus,Pune Station,Metro,Metro,Morning Peak (8 AM - 11 AM),38,15,University Circle,3
+3/8/2026 9:20,Baner,Swargate,Auto Rickshaw,Auto Rickshaw,Morning Peak (8 AM - 11 AM),77,334,Yerawada/Kalyani Nagar junction,1
+3/8/2026 9:25,Shivajinagar,Kharadi,Cab (Ola/Uber),Auto Rickshaw,Morning Peak (8 AM - 11 AM),65,197,Chandni Chowk,4
+3/8/2026 9:37,Wakad,Viman Nagar,Metro,Cab (Ola/Uber),Evening Peak (4 PM - 8 PM),49,13,None,1
+3/8/2026 9:45,Wakad,Viman Nagar,Metro,Walking,Morning Peak (8 AM - 11 AM),47,23,None,2
+3/8/2026 9:58,SIT Lavale Campus,Pune Station,Metro,Walking,Morning Peak (8 AM - 11 AM),50,26,Waiting for Bus/Metro,1
+3/8/2026 9:59,Wakad,Swargate,Cab (Ola/Uber),Walking,Night (After 8 PM),66,244,University Circle,3
+3/8/2026 10:01,Pashan,Viman Nagar,Metro,Metro,Night (After 8 PM),54,15,None,2
+3/8/2026 10:38,Baner,Hinjewadi,Personal Two-Wheeler,Auto Rickshaw,Morning Peak (8 AM - 11 AM),42,54,None,5
+3/8/2026 10:50,Pashan,Kharadi,Auto Rickshaw,None (Direct Trip),Morning Peak (8 AM - 11 AM),44,194,Waiting for Bus/Metro,1
+3/8/2026 10:51,SIT Lavale Campus,Kharadi,Personal Two-Wheeler,Auto Rickshaw,Night (After 8 PM),59,96,Hinjewadi Traffic,3
+3/8/2026 10:51,Kothrud,Viman Nagar,Cab (Ola/Uber),Auto Rickshaw,Morning Peak (8 AM - 11 AM),81,299,None,2
+3/8/2026 10:56,Kothrud,Kharadi,Metro,Metro,Midday (11 AM - 4 PM),35,33,None,2
+3/8/2026 11:11,Shivajinagar,Other,PMPML City Bus,PMPML City Bus,Night (After 8 PM),104,19,Chandni Chowk,3
+3/8/2026 11:21,Kothrud,Hinjewadi,Carpool,Metro,Night (After 8 PM),46,51,University Circle,4
+3/8/2026 11:31,Other,Kharadi,Personal Two-Wheeler,PMPML City Bus,Night (After 8 PM),29,92,University Circle,5
+3/8/2026 11:36,Shivajinagar,Kharadi,PMPML City Bus,PMPML City Bus,Night (After 8 PM),46,16,None,1
+3/8/2026 11:44,Shivajinagar,Hinjewadi,Carpool,Walking,Night (After 8 PM),40,58,Yerawada/Kalyani Nagar junction,5
+3/8/2026 11:58,Baner,Other,Cab (Ola/Uber),Auto Rickshaw,Midday (11 AM - 4 PM),87,170,None,2
+3/8/2026 12:15,SIT Lavale Campus,Other,PMPML City Bus,Auto Rickshaw,Evening Peak (4 PM - 8 PM),81,48,Chandni Chowk,4
+3/8/2026 12:44,Baner,Swargate,Carpool,Metro,Morning Peak (8 AM - 11 AM),74,75,Chandni Chowk,3
+3/8/2026 12:52,Baner,Swargate,PMPML City Bus,Metro,Evening Peak (4 PM - 8 PM),117,23,None,5
+3/8/2026 13:19,Shivajinagar,Viman Nagar,Carpool,PMPML City Bus,Night (After 8 PM),64,58,University Circle,5
+3/8/2026 13:22,Pashan,Hinjewadi,Cab (Ola/Uber),PMPML City Bus,Evening Peak (4 PM - 8 PM),71,311,Waiting for Bus/Metro,1
+3/8/2026 13:27,Shivajinagar,Other,Carpool,Auto Rickshaw,Morning Peak (8 AM - 11 AM),74,70,Hinjewadi Traffic,2
+3/8/2026 13:45,Other,Swargate,Personal Two-Wheeler,PMPML City Bus,Midday (11 AM - 4 PM),76,54,University Circle,3
+3/8/2026 13:50,Pashan,Hinjewadi,Personal Two-Wheeler,Cab (Ola/Uber),Night (After 8 PM),79,70,Hinjewadi Traffic,2
+3/8/2026 13:58,Kothrud,Hinjewadi,Personal Two-Wheeler,Auto Rickshaw,Night (After 8 PM),71,72,Waiting for Bus/Metro,5
+3/8/2026 14:00,Kothrud,Viman Nagar,Carpool,PMPML City Bus,Midday (11 AM - 4 PM),57,57,Waiting for Bus/Metro,2
+3/8/2026 14:20,Other,Swargate,PMPML City Bus,Auto Rickshaw,Midday (11 AM - 4 PM),119,22,Chandni Chowk,2
+3/8/2026 14:23,Shivajinagar,Other,Personal Two-Wheeler,Auto Rickshaw,Midday (11 AM - 4 PM),30,69,Chandni Chowk,1
+3/8/2026 14:50,Shivajinagar,Pune Station,Cab (Ola/Uber),Walking,Evening Peak (4 PM - 8 PM),31,428,Waiting for Bus/Metro,4
+3/8/2026 15:03,SIT Lavale Campus,Kharadi,Metro,Auto Rickshaw,Morning Peak (8 AM - 11 AM),26,26,Yerawada/Kalyani Nagar junction,5
+3/8/2026 16:01,Kothrud,Viman Nagar,Metro,None (Direct Trip),Evening Peak (4 PM - 8 PM),25,14,Waiting for Bus/Metro,5
+3/8/2026 16:10,SIT Lavale Campus,Kharadi,Cab (Ola/Uber),PMPML City Bus,Midday (11 AM - 4 PM),35,378,Yerawada/Kalyani Nagar junction,4
+3/8/2026 16:18,Baner,Kharadi,Auto Rickshaw,Cab (Ola/Uber),Midday (11 AM - 4 PM),88,239,Hinjewadi Traffic,4
+3/8/2026 17:32,Pashan,Viman Nagar,Auto Rickshaw,None (Direct Trip),Evening Peak (4 PM - 8 PM),51,360,Hinjewadi Traffic,4
+3/8/2026 17:42,Wakad,Hinjewadi,Metro,PMPML City Bus,Morning Peak (8 AM - 11 AM),34,29,Yerawada/Kalyani Nagar junction,4
+3/8/2026 18:00,Wakad,Swargate,Carpool,PMPML City Bus,Morning Peak (8 AM - 11 AM),79,90,Chandni Chowk,1
+3/8/2026 18:37,Other,Hinjewadi,Auto Rickshaw,Metro,Night (After 8 PM),77,309,Chandni Chowk,2
+3/8/2026 18:46,Kothrud,Viman Nagar,Metro,Walking,Evening Peak (4 PM - 8 PM),45,12,Hinjewadi Traffic,1
+3/8/2026 19:15,SIT Lavale Campus,Other,Personal Two-Wheeler,Walking,Midday (11 AM - 4 PM),66,66,Chandni Chowk,1
+3/8/2026 19:19,Wakad,Pune Station,PMPML City Bus,None (Direct Trip),Night (After 8 PM),50,28,Yerawada/Kalyani Nagar junction,3
+3/8/2026 20:06,Other,Hinjewadi,Auto Rickshaw,Metro,Midday (11 AM - 4 PM),39,306,Hinjewadi Traffic,5
+3/8/2026 20:08,Kothrud,Other,Cab (Ola/Uber),Auto Rickshaw,Midday (11 AM - 4 PM),73,263,University Circle,5
+3/8/2026 20:10,Pashan,Swargate,Cab (Ola/Uber),Walking,Morning Peak (8 AM - 11 AM),48,336,Hinjewadi Traffic,5
+3/8/2026 20:13,Wakad,Kharadi,PMPML City Bus,Walking,Morning Peak (8 AM - 11 AM),64,20,Waiting for Bus/Metro,3
+3/8/2026 20:16,Kothrud,Swargate,Metro,None (Direct Trip),Midday (11 AM - 4 PM),34,31,Waiting for Bus/Metro,5
+3/8/2026 20:25,Wakad,Kharadi,Cab (Ola/Uber),None (Direct Trip),Night (After 8 PM),41,213,University Circle,3
+3/8/2026 20:53,Pashan,Pune Station,Auto Rickshaw,None (Direct Trip),Morning Peak (8 AM - 11 AM),48,338,Yerawada/Kalyani Nagar junction,2
+3/8/2026 21:37,Shivajinagar,Swargate,Metro,None (Direct Trip),Evening Peak (4 PM - 8 PM),55,28,Chandni Chowk,3
+3/8/2026 21:47,Kothrud,Kharadi,Metro,None (Direct Trip),Morning Peak (8 AM - 11 AM),52,13,Yerawada/Kalyani Nagar junction,5
+3/8/2026 21:51,Pashan,Viman Nagar,Metro,Auto Rickshaw,Morning Peak (8 AM - 11 AM),34,23,Waiting for Bus/Metro,1
+3/8/2026 21:56,Shivajinagar,Other,Carpool,None (Direct Trip),Morning Peak (8 AM - 11 AM),56,93,University Circle,1
+3/8/2026 21:59,Shivajinagar,Swargate,Auto Rickshaw,PMPML City Bus,Night (After 8 PM),76,193,Hinjewadi Traffic,5
+3/8/2026 22:48,Kothrud,Kharadi,Carpool,None (Direct Trip),Night (After 8 PM),47,51,Chandni Chowk,5
+3/8/2026 22:53,Wakad,Other,PMPML City Bus,Metro,Night (After 8 PM),49,47,Waiting for Bus/Metro,2
+3/8/2026 23:03,Kothrud,Pune Station,Cab (Ola/Uber),Cab (Ola/Uber),Midday (11 AM - 4 PM),37,170,Hinjewadi Traffic,5
+3/8/2026 23:10,Shivajinagar,Other,Auto Rickshaw,Auto Rickshaw,Evening Peak (4 PM - 8 PM),43,208,Hinjewadi Traffic,3
+3/8/2026 23:21,Kothrud,Hinjewadi,Cab (Ola/Uber),Walking,Morning Peak (8 AM - 11 AM),43,378,Yerawada/Kalyani Nagar junction,3
+3/8/2026 23:53,Wakad,Pune Station,Cab (Ola/Uber),PMPML City Bus,Morning Peak (8 AM - 11 AM),56,326,Hinjewadi Traffic,1
+3/8/2026 23:59,Shivajinagar,Swargate,Carpool,Metro,Morning Peak (8 AM - 11 AM),25,63,University Circle,4
+3/9/2026 0:11,Baner,Pune Station,Cab (Ola/Uber),None (Direct Trip),Midday (11 AM - 4 PM),86,281,University Circle,1
+3/9/2026 0:21,SIT Lavale Campus,Hinjewadi,Auto Rickshaw,Walking,Night (After 8 PM),84,290,University Circle,1
+3/9/2026 0:40,Shivajinagar,Hinjewadi,Metro,Walking,Morning Peak (8 AM - 11 AM),46,30,Hinjewadi Traffic,3
+3/9/2026 0:46,SIT Lavale Campus,Swargate,Cab (Ola/Uber),PMPML City Bus,Midday (11 AM - 4 PM),70,187,None,5
+3/9/2026 1:03,SIT Lavale Campus,Other,Auto Rickshaw,PMPML City Bus,Morning Peak (8 AM - 11 AM),80,346,Hinjewadi Traffic,3
+3/9/2026 1:07,Other,Hinjewadi,Metro,Cab (Ola/Uber),Evening Peak (4 PM - 8 PM),46,26,None,1
+3/9/2026 1:23,Other,Hinjewadi,Auto Rickshaw,PMPML City Bus,Midday (11 AM - 4 PM),72,180,None,4
+3/9/2026 1:37,Baner,Pune Station,Cab (Ola/Uber),None (Direct Trip),Morning Peak (8 AM - 11 AM),39,277,Yerawada/Kalyani Nagar junction,3
+3/9/2026 1:48,Kothrud,Kharadi,Metro,Walking,Midday (11 AM - 4 PM),34,35,Waiting for Bus/Metro,1
+3/9/2026 2:15,Kothrud,Viman Nagar,PMPML City Bus,None (Direct Trip),Evening Peak (4 PM - 8 PM),109,49,University Circle,5
+3/9/2026 2:17,Pashan,Viman Nagar,Carpool,None (Direct Trip),Midday (11 AM - 4 PM),36,75,Waiting for Bus/Metro,5
+3/9/2026 2:34,Pashan,Other,PMPML City Bus,Cab (Ola/Uber),Evening Peak (4 PM - 8 PM),110,38,Hinjewadi Traffic,1
+3/9/2026 2:39,SIT Lavale Campus,Other,Metro,Metro,Night (After 8 PM),26,10,Waiting for Bus/Metro,1
+3/9/2026 2:44,Wakad,Pune Station,PMPML City Bus,Metro,Evening Peak (4 PM - 8 PM),109,18,Chandni Chowk,5
+3/9/2026 3:03,Kothrud,Hinjewadi,Personal Two-Wheeler,Walking,Midday (11 AM - 4 PM),56,63,Chandni Chowk,1
+3/9/2026 3:16,Baner,Viman Nagar,Carpool,PMPML City Bus,Evening Peak (4 PM - 8 PM),41,59,None,4
+3/9/2026 3:20,SIT Lavale Campus,Pune Station,Personal Two-Wheeler,PMPML City Bus,Midday (11 AM - 4 PM),54,46,Hinjewadi Traffic,2
+3/9/2026 3:28,Kothrud,Other,Personal Two-Wheeler,Cab (Ola/Uber),Night (After 8 PM),79,60,University Circle,2
+3/9/2026 3:42,Baner,Swargate,Auto Rickshaw,Metro,Morning Peak (8 AM - 11 AM),76,443,Waiting for Bus/Metro,2
+3/9/2026 4:10,Wakad,Hinjewadi,Personal Two-Wheeler,None (Direct Trip),Midday (11 AM - 4 PM),74,99,Waiting for Bus/Metro,5
+3/9/2026 4:16,Other,Kharadi,Metro,Cab (Ola/Uber),Night (After 8 PM),60,21,None,4
+3/9/2026 4:17,Other,Kharadi,Carpool,Walking,Midday (11 AM - 4 PM),64,43,University Circle,4
+3/9/2026 4:28,Shivajinagar,Viman Nagar,Metro,Auto Rickshaw,Morning Peak (8 AM - 11 AM),59,35,Waiting for Bus/Metro,2
+3/9/2026 4:40,SIT Lavale Campus,Hinjewadi,Metro,Auto Rickshaw,Evening Peak (4 PM - 8 PM),48,22,None,2
+3/9/2026 4:53,Baner,Kharadi,Personal Two-Wheeler,Cab (Ola/Uber),Morning Peak (8 AM - 11 AM),40,51,Yerawada/Kalyani Nagar junction,4
+3/9/2026 5:16,Other,Swargate,Personal Two-Wheeler,Metro,Night (After 8 PM),32,81,None,5
+3/9/2026 5:40,Pashan,Hinjewadi,Auto Rickshaw,Metro,Evening Peak (4 PM - 8 PM),46,281,Chandni Chowk,1
+3/9/2026 5:48,Kothrud,Other,PMPML City Bus,PMPML City Bus,Night (After 8 PM),67,38,Yerawada/Kalyani Nagar junction,1
+3/9/2026 5:51,Baner,Hinjewadi,Carpool,Metro,Morning Peak (8 AM - 11 AM),35,61,Yerawada/Kalyani Nagar junction,1
+3/9/2026 6:00,SIT Lavale Campus,Hinjewadi,PMPML City Bus,None (Direct Trip),Midday (11 AM - 4 PM),94,40,Hinjewadi Traffic,1
+3/9/2026 6:56,Kothrud,Other,Auto Rickshaw,Auto Rickshaw,Midday (11 AM - 4 PM),33,375,Chandni Chowk,4
+3/9/2026 8:10,Shivajinagar,Viman Nagar,Metro,Cab (Ola/Uber),Morning Peak (8 AM - 11 AM),26,10,Waiting for Bus/Metro,5
+3/9/2026 8:23,Shivajinagar,Pune Station,PMPML City Bus,Walking,Morning Peak (8 AM - 11 AM),114,33,Hinjewadi Traffic,4
+3/9/2026 8:23,Baner,Other,Metro,PMPML City Bus,Midday (11 AM - 4 PM),42,24,Hinjewadi Traffic,1
+3/9/2026 8:34,SIT Lavale Campus,Pune Station,PMPML City Bus,Metro,Night (After 8 PM),54,27,Chandni Chowk,1
+3/9/2026 8:34,Other,Kharadi,Carpool,PMPML City Bus,Night (After 8 PM),27,79,University Circle,5
+3/9/2026 8:40,Pashan,Viman Nagar,Auto Rickshaw,Auto Rickshaw,Evening Peak (4 PM - 8 PM),54,233,Hinjewadi Traffic,1
+3/9/2026 9:02,SIT Lavale Campus,Viman Nagar,Auto Rickshaw,Walking,Morning Peak (8 AM - 11 AM),80,331,University Circle,2
+3/9/2026 9:07,Baner,Other,Personal Two-Wheeler,Metro,Night (After 8 PM),35,75,Yerawada/Kalyani Nagar junction,5
+3/9/2026 9:33,Shivajinagar,Hinjewadi,Cab (Ola/Uber),Metro,Midday (11 AM - 4 PM),43,154,Yerawada/Kalyani Nagar junction,4
+3/9/2026 9:45,Wakad,Viman Nagar,Carpool,None (Direct Trip),Midday (11 AM - 4 PM),46,78,Waiting for Bus/Metro,1
+3/9/2026 9:58,Baner,Viman Nagar,PMPML City Bus,None (Direct Trip),Midday (11 AM - 4 PM),73,49,Waiting for Bus/Metro,2
+3/9/2026 10:16,Kothrud,Viman Nagar,Cab (Ola/Uber),PMPML City Bus,Morning Peak (8 AM - 11 AM),88,389,Chandni Chowk,5
+3/9/2026 10:45,Shivajinagar,Swargate,Auto Rickshaw,Auto Rickshaw,Night (After 8 PM),83,372,Yerawada/Kalyani Nagar junction,4
+3/9/2026 10:47,Wakad,Hinjewadi,Auto Rickshaw,Cab (Ola/Uber),Midday (11 AM - 4 PM),90,253,Waiting for Bus/Metro,5
+3/9/2026 11:00,Shivajinagar,Viman Nagar,Personal Two-Wheeler,Cab (Ola/Uber),Night (After 8 PM),26,71,Hinjewadi Traffic,3
+3/9/2026 11:18,Baner,Viman Nagar,Personal Two-Wheeler,Metro,Night (After 8 PM),47,41,None,3
+3/9/2026 11:30,Other,Pune Station,Auto Rickshaw,Walking,Midday (11 AM - 4 PM),50,353,Hinjewadi Traffic,2
+3/9/2026 12:02,Other,Viman Nagar,Carpool,Auto Rickshaw,Night (After 8 PM),28,59,Hinjewadi Traffic,4
+3/9/2026 12:05,Other,Hinjewadi,Auto Rickshaw,Walking,Midday (11 AM - 4 PM),47,362,Chandni Chowk,5
+3/9/2026 12:30,Wakad,Pune Station,Auto Rickshaw,Metro,Morning Peak (8 AM - 11 AM),60,215,Chandni Chowk,1
+3/9/2026 12:37,Shivajinagar,Kharadi,Carpool,None (Direct Trip),Midday (11 AM - 4 PM),36,92,None,1
+3/9/2026 12:37,Pashan,Pune Station,Metro,None (Direct Trip),Night (After 8 PM),47,15,Yerawada/Kalyani Nagar junction,2
+3/9/2026 12:45,Pashan,Swargate,Personal Two-Wheeler,Cab (Ola/Uber),Morning Peak (8 AM - 11 AM),29,49,University Circle,1
+3/9/2026 12:53,Baner,Hinjewadi,PMPML City Bus,Walking,Night (After 8 PM),105,43,Waiting for Bus/Metro,5
+3/9/2026 13:28,Wakad,Pune Station,Auto Rickshaw,Cab (Ola/Uber),Midday (11 AM - 4 PM),62,431,None,1
+3/9/2026 13:47,Baner,Kharadi,Cab (Ola/Uber),Metro,Morning Peak (8 AM - 11 AM),46,379,None,4
+3/9/2026 13:51,Baner,Swargate,Auto Rickshaw,Walking,Morning Peak (8 AM - 11 AM),30,285,University Circle,5
+3/9/2026 14:08,Shivajinagar,Hinjewadi,Auto Rickshaw,None (Direct Trip),Evening Peak (4 PM - 8 PM),49,214,Chandni Chowk,3
+3/9/2026 14:30,Baner,Hinjewadi,PMPML City Bus,Auto Rickshaw,Midday (11 AM - 4 PM),86,36,Hinjewadi Traffic,2
+3/9/2026 14:34,Shivajinagar,Kharadi,Metro,Metro,Morning Peak (8 AM - 11 AM),46,30,None,1
+3/9/2026 14:41,Wakad,Kharadi,Cab (Ola/Uber),Metro,Morning Peak (8 AM - 11 AM),70,172,None,1
+3/9/2026 14:44,Baner,Kharadi,Carpool,PMPML City Bus,Midday (11 AM - 4 PM),30,45,Yerawada/Kalyani Nagar junction,4
+3/9/2026 14:59,Pashan,Hinjewadi,Carpool,PMPML City Bus,Night (After 8 PM),59,93,Hinjewadi Traffic,5
+3/9/2026 15:12,SIT Lavale Campus,Pune Station,Personal Two-Wheeler,Walking,Night (After 8 PM),78,97,Hinjewadi Traffic,3
+3/9/2026 15:16,Shivajinagar,Other,Auto Rickshaw,Auto Rickshaw,Morning Peak (8 AM - 11 AM),78,285,None,1
+3/9/2026 15:24,Baner,Kharadi,PMPML City Bus,Cab (Ola/Uber),Midday (11 AM - 4 PM),117,35,None,2
+3/9/2026 15:30,Pashan,Swargate,Cab (Ola/Uber),None (Direct Trip),Morning Peak (8 AM - 11 AM),72,381,None,4
+3/9/2026 15:36,SIT Lavale Campus,Pune Station,Cab (Ola/Uber),Cab (Ola/Uber),Morning Peak (8 AM - 11 AM),78,237,Waiting for Bus/Metro,3
+3/9/2026 15:51,Baner,Hinjewadi,Personal Two-Wheeler,PMPML City Bus,Night (After 8 PM),60,92,Hinjewadi Traffic,5
+3/9/2026 15:57,Kothrud,Swargate,Personal Two-Wheeler,Walking,Evening Peak (4 PM - 8 PM),66,54,University Circle,2
+3/9/2026 16:13,Other,Swargate,Personal Two-Wheeler,Cab (Ola/Uber),Night (After 8 PM),63,67,None,3
+3/9/2026 16:24,Wakad,Other,Carpool,Walking,Morning Peak (8 AM - 11 AM),58,82,Yerawada/Kalyani Nagar junction,5
+3/9/2026 16:25,Wakad,Other,PMPML City Bus,None (Direct Trip),Morning Peak (8 AM - 11 AM),48,19,None,2
+3/9/2026 17:13,Baner,Pune Station,Metro,None (Direct Trip),Night (After 8 PM),55,10,None,4
+3/9/2026 17:15,Other,Viman Nagar,Auto Rickshaw,PMPML City Bus,Evening Peak (4 PM - 8 PM),46,172,Waiting for Bus/Metro,5
+3/9/2026 17:16,Pashan,Swargate,Carpool,None (Direct Trip),Night (After 8 PM),68,57,University Circle,1
+3/9/2026 17:27,Baner,Viman Nagar,PMPML City Bus,PMPML City Bus,Morning Peak (8 AM - 11 AM),91,30,University Circle,1
+3/9/2026 17:54,Other,Viman Nagar,Auto Rickshaw,PMPML City Bus,Midday (11 AM - 4 PM),68,384,Hinjewadi Traffic,5
+3/9/2026 18:18,SIT Lavale Campus,Kharadi,Metro,None (Direct Trip),Midday (11 AM - 4 PM),30,20,Hinjewadi Traffic,1
+3/9/2026 18:48,SIT Lavale Campus,Pune Station,Personal Two-Wheeler,PMPML City Bus,Evening Peak (4 PM - 8 PM),34,86,Waiting for Bus/Metro,5
+3/9/2026 19:07,Baner,Other,Metro,Auto Rickshaw,Evening Peak (4 PM - 8 PM),53,16,Waiting for Bus/Metro,1
+3/9/2026 19:30,Other,Hinjewadi,Auto Rickshaw,Metro,Night (After 8 PM),30,376,Chandni Chowk,1
+3/9/2026 19:35,Kothrud,Other,Auto Rickshaw,None (Direct Trip),Midday (11 AM - 4 PM),76,197,University Circle,5
+3/9/2026 19:40,Baner,Viman Nagar,Metro,PMPML City Bus,Evening Peak (4 PM - 8 PM),44,22,Hinjewadi Traffic,5
+3/9/2026 20:02,Kothrud,Kharadi,Carpool,Metro,Night (After 8 PM),77,45,Hinjewadi Traffic,2
+3/9/2026 20:35,Pashan,Viman Nagar,PMPML City Bus,PMPML City Bus,Night (After 8 PM),65,33,Yerawada/Kalyani Nagar junction,5
+3/9/2026 20:37,Baner,Swargate,PMPML City Bus,Cab (Ola/Uber),Night (After 8 PM),46,21,Chandni Chowk,1
+3/9/2026 20:59,Kothrud,Hinjewadi,Metro,Auto Rickshaw,Night (After 8 PM),43,31,None,1
+3/9/2026 21:19,Pashan,Other,Personal Two-Wheeler,PMPML City Bus,Morning Peak (8 AM - 11 AM),80,44,None,4
+3/9/2026 21:39,Wakad,Pune Station,Carpool,Metro,Evening Peak (4 PM - 8 PM),39,68,Yerawada/Kalyani Nagar junction,4
+3/9/2026 21:42,Baner,Kharadi,Metro,Cab (Ola/Uber),Night (After 8 PM),31,28,Yerawada/Kalyani Nagar junction,5
+3/9/2026 21:49,Shivajinagar,Hinjewadi,Auto Rickshaw,None (Direct Trip),Midday (11 AM - 4 PM),86,312,Chandni Chowk,4
+3/9/2026 22:03,Shivajinagar,Hinjewadi,Personal Two-Wheeler,PMPML City Bus,Evening Peak (4 PM - 8 PM),57,88,Waiting for Bus/Metro,1
+3/9/2026 22:04,Wakad,Swargate,Carpool,Cab (Ola/Uber),Midday (11 AM - 4 PM),73,61,Waiting for Bus/Metro,2
+3/9/2026 22:07,Other,Pune Station,Metro,Walking,Morning Peak (8 AM - 11 AM),32,11,Chandni Chowk,4
+3/9/2026 22:11,Baner,Viman Nagar,Metro,Cab (Ola/Uber),Midday (11 AM - 4 PM),24,11,Hinjewadi Traffic,2
+3/9/2026 22:21,Baner,Other,Cab (Ola/Uber),Walking,Morning Peak (8 AM - 11 AM),47,422,Hinjewadi Traffic,2
+3/9/2026 22:31,Wakad,Kharadi,Cab (Ola/Uber),PMPML City Bus,Evening Peak (4 PM - 8 PM),86,288,None,3
+3/9/2026 23:01,Kothrud,Hinjewadi,Cab (Ola/Uber),Auto Rickshaw,Night (After 8 PM),60,200,Hinjewadi Traffic,4
+3/9/2026 23:17,Kothrud,Swargate,Carpool,Cab (Ola/Uber),Midday (11 AM - 4 PM),70,47,Waiting for Bus/Metro,3
+3/9/2026 23:20,Wakad,Pune Station,Metro,PMPML City Bus,Midday (11 AM - 4 PM),28,28,Waiting for Bus/Metro,2
+3/9/2026 23:36,Wakad,Viman Nagar,Metro,Cab (Ola/Uber),Midday (11 AM - 4 PM),45,17,University Circle,4
+3/9/2026 23:59,Kothrud,Pune Station,Personal Two-Wheeler,None (Direct Trip),Evening Peak (4 PM - 8 PM),47,86,Chandni Chowk,5
+3/10/2026 0:11,Other,Viman Nagar,Cab (Ola/Uber),Metro,Midday (11 AM - 4 PM),73,427,None,3
+3/10/2026 0:14,SIT Lavale Campus,Other,Personal Two-Wheeler,PMPML City Bus,Night (After 8 PM),55,94,Hinjewadi Traffic,4
+3/10/2026 0:16,SIT Lavale Campus,Viman Nagar,PMPML City Bus,Cab (Ola/Uber),Midday (11 AM - 4 PM),62,39,None,5
+3/10/2026 0:23,SIT Lavale Campus,Viman Nagar,Carpool,PMPML City Bus,Morning Peak (8 AM - 11 AM),64,65,Hinjewadi Traffic,2
+3/10/2026 0:33,Shivajinagar,Viman Nagar,Metro,Metro,Evening Peak (4 PM - 8 PM),47,21,Hinjewadi Traffic,5
+3/10/2026 0:46,Other,Swargate,Carpool,Walking,Night (After 8 PM),60,82,Yerawada/Kalyani Nagar junction,3
+3/10/2026 0:48,Other,Kharadi,Auto Rickshaw,Walking,Evening Peak (4 PM - 8 PM),35,223,University Circle,1
+3/10/2026 0:49,Kothrud,Hinjewadi,Carpool,Metro,Night (After 8 PM),67,74,Waiting for Bus/Metro,3
+3/10/2026 1:26,Other,Kharadi,Carpool,Walking,Midday (11 AM - 4 PM),46,86,None,5
+3/10/2026 1:28,Other,Kharadi,Carpool,Auto Rickshaw,Morning Peak (8 AM - 11 AM),35,85,Chandni Chowk,3
+3/10/2026 1:59,SIT Lavale Campus,Viman Nagar,Carpool,Metro,Morning Peak (8 AM - 11 AM),75,79,Yerawada/Kalyani Nagar junction,3
+3/10/2026 2:07,Kothrud,Kharadi,PMPML City Bus,Walking,Morning Peak (8 AM - 11 AM),99,42,Yerawada/Kalyani Nagar junction,5
+3/10/2026 2:13,Other,Kharadi,Cab (Ola/Uber),Cab (Ola/Uber),Morning Peak (8 AM - 11 AM),70,300,Waiting for Bus/Metro,1
+3/10/2026 2:21,Wakad,Kharadi,Cab (Ola/Uber),Auto Rickshaw,Morning Peak (8 AM - 11 AM),36,372,Yerawada/Kalyani Nagar junction,5
+3/10/2026 2:37,Wakad,Hinjewadi,Metro,Walking,Midday (11 AM - 4 PM),26,26,Hinjewadi Traffic,1
+3/10/2026 2:47,Pashan,Swargate,Cab (Ola/Uber),None (Direct Trip),Night (After 8 PM),64,200,Hinjewadi Traffic,1
+3/10/2026 2:52,SIT Lavale Campus,Other,PMPML City Bus,PMPML City Bus,Midday (11 AM - 4 PM),70,34,Hinjewadi Traffic,2
+3/10/2026 2:56,SIT Lavale Campus,Viman Nagar,Cab (Ola/Uber),Metro,Evening Peak (4 PM - 8 PM),75,274,Hinjewadi Traffic,5
+3/10/2026 3:09,Baner,Kharadi,PMPML City Bus,Cab (Ola/Uber),Evening Peak (4 PM - 8 PM),117,50,University Circle,4
+3/10/2026 3:14,Shivajinagar,Pune Station,Metro,Metro,Evening Peak (4 PM - 8 PM),46,25,Yerawada/Kalyani Nagar junction,5
+3/10/2026 3:30,SIT Lavale Campus,Pune Station,Auto Rickshaw,PMPML City Bus,Midday (11 AM - 4 PM),48,283,Hinjewadi Traffic,5
+3/10/2026 3:37,Kothrud,Hinjewadi,Auto Rickshaw,Walking,Evening Peak (4 PM - 8 PM),72,183,Yerawada/Kalyani Nagar junction,3
+3/10/2026 3:42,Wakad,Other,Auto Rickshaw,PMPML City Bus,Midday (11 AM - 4 PM),72,269,Hinjewadi Traffic,1
+3/10/2026 4:21,Baner,Viman Nagar,Metro,Metro,Night (After 8 PM),55,33,Waiting for Bus/Metro,5
+3/10/2026 4:22,Shivajinagar,Hinjewadi,PMPML City Bus,Auto Rickshaw,Midday (11 AM - 4 PM),88,38,University Circle,4
+3/10/2026 4:53,Other,Pune Station,PMPML City Bus,Cab (Ola/Uber),Night (After 8 PM),65,17,Chandni Chowk,5
+3/10/2026 5:33,Baner,Other,PMPML City Bus,Cab (Ola/Uber),Night (After 8 PM),93,39,Chandni Chowk,4
+3/10/2026 5:41,Baner,Pune Station,Auto Rickshaw,PMPML City Bus,Night (After 8 PM),60,272,Yerawada/Kalyani Nagar junction,4
+3/10/2026 5:48,Kothrud,Viman Nagar,Cab (Ola/Uber),Metro,Evening Peak (4 PM - 8 PM),38,193,Hinjewadi Traffic,1
+3/10/2026 6:10,SIT Lavale Campus,Other,PMPML City Bus,PMPML City Bus,Evening Peak (4 PM - 8 PM),109,42,University Circle,3
+3/10/2026 6:20,SIT Lavale Campus,Hinjewadi,Auto Rickshaw,Auto Rickshaw,Midday (11 AM - 4 PM),34,205,Chandni Chowk,4
+3/10/2026 6:21,Kothrud,Swargate,PMPML City Bus,Cab (Ola/Uber),Night (After 8 PM),58,17,Chandni Chowk,2
+3/10/2026 6:26,Kothrud,Pune Station,Personal Two-Wheeler,Cab (Ola/Uber),Morning Peak (8 AM - 11 AM),77,85,Yerawada/Kalyani Nagar junction,1
+3/10/2026 6:43,SIT Lavale Campus,Pune Station,Carpool,None (Direct Trip),Midday (11 AM - 4 PM),64,63,Waiting for Bus/Metro,2
+3/10/2026 6:56,Shivajinagar,Kharadi,Personal Two-Wheeler,Auto Rickshaw,Morning Peak (8 AM - 11 AM),53,78,None,4
+3/10/2026 7:21,Wakad,Hinjewadi,Metro,Cab (Ola/Uber),Morning Peak (8 AM - 11 AM),33,31,University Circle,2
+3/10/2026 7:22,Kothrud,Pune Station,Auto Rickshaw,Metro,Evening Peak (4 PM - 8 PM),32,279,Yerawada/Kalyani Nagar junction,3
+3/10/2026 7:51,Baner,Other,Carpool,Cab (Ola/Uber),Morning Peak (8 AM - 11 AM),77,73,Waiting for Bus/Metro,2
+3/10/2026 8:09,Wakad,Pune Station,Metro,None (Direct Trip),Midday (11 AM - 4 PM),31,23,University Circle,5
+3/10/2026 8:19,Pashan,Kharadi,Metro,Auto Rickshaw,Evening Peak (4 PM - 8 PM),48,35,Hinjewadi Traffic,4
+3/10/2026 8:26,Kothrud,Other,Carpool,Walking,Morning Peak (8 AM - 11 AM),79,78,Waiting for Bus/Metro,2
+3/10/2026 9:55,Wakad,Swargate,PMPML City Bus,Walking,Night (After 8 PM),47,23,None,2
+3/10/2026 9:59,Baner,Viman Nagar,Carpool,Auto Rickshaw,Night (After 8 PM),35,45,Yerawada/Kalyani Nagar junction,1
+3/10/2026 10:10,Kothrud,Kharadi,PMPML City Bus,PMPML City Bus,Midday (11 AM - 4 PM),119,32,Yerawada/Kalyani Nagar junction,2
+3/10/2026 10:32,Kothrud,Swargate,Auto Rickshaw,None (Direct Trip),Midday (11 AM - 4 PM),65,196,Yerawada/Kalyani Nagar junction,4
+3/10/2026 10:36,Kothrud,Kharadi,Personal Two-Wheeler,None (Direct Trip),Night (After 8 PM),37,93,Chandni Chowk,2
+3/10/2026 10:39,Pashan,Kharadi,PMPML City Bus,Auto Rickshaw,Evening Peak (4 PM - 8 PM),119,21,University Circle,1
+3/10/2026 11:20,Pashan,Swargate,Personal Two-Wheeler,None (Direct Trip),Evening Peak (4 PM - 8 PM),59,66,Waiting for Bus/Metro,1
+3/10/2026 11:30,Baner,Viman Nagar,Carpool,Metro,Evening Peak (4 PM - 8 PM),36,99,Hinjewadi Traffic,1
+3/10/2026 11:44,Kothrud,Pune Station,PMPML City Bus,Metro,Night (After 8 PM),62,16,Yerawada/Kalyani Nagar junction,5
+3/10/2026 11:58,Pashan,Hinjewadi,Carpool,PMPML City Bus,Midday (11 AM - 4 PM),59,49,Waiting for Bus/Metro,1
+3/10/2026 12:11,Other,Hinjewadi,Carpool,PMPML City Bus,Morning Peak (8 AM - 11 AM),52,74,Chandni Chowk,1
+3/10/2026 12:17,Wakad,Kharadi,Cab (Ola/Uber),Metro,Morning Peak (8 AM - 11 AM),69,195,Waiting for Bus/Metro,2
+3/10/2026 12:50,Baner,Kharadi,PMPML City Bus,Walking,Morning Peak (8 AM - 11 AM),119,44,None,2
+3/10/2026 12:53,Shivajinagar,Swargate,Carpool,Metro,Evening Peak (4 PM - 8 PM),51,55,University Circle,2
+3/10/2026 12:55,Kothrud,Other,Auto Rickshaw,Cab (Ola/Uber),Night (After 8 PM),62,419,University Circle,1
+3/10/2026 13:41,Baner,Pune Station,Cab (Ola/Uber),Auto Rickshaw,Night (After 8 PM),60,432,Yerawada/Kalyani Nagar junction,1
+3/10/2026 13:50,Kothrud,Hinjewadi,Auto Rickshaw,Auto Rickshaw,Morning Peak (8 AM - 11 AM),61,437,Waiting for Bus/Metro,5
+3/10/2026 13:55,Shivajinagar,Hinjewadi,PMPML City Bus,PMPML City Bus,Night (After 8 PM),95,41,Waiting for Bus/Metro,5
+3/10/2026 14:24,Wakad,Pune Station,PMPML City Bus,Cab (Ola/Uber),Midday (11 AM - 4 PM),113,50,University Circle,2
+3/10/2026 14:25,Shivajinagar,Kharadi,Auto Rickshaw,Walking,Evening Peak (4 PM - 8 PM),62,292,Waiting for Bus/Metro,1
+3/10/2026 14:50,SIT Lavale Campus,Viman Nagar,Personal Two-Wheeler,None (Direct Trip),Night (After 8 PM),32,43,Waiting for Bus/Metro,4
+3/10/2026 15:08,Pashan,Swargate,PMPML City Bus,PMPML City Bus,Evening Peak (4 PM - 8 PM),51,26,Chandni Chowk,3
+3/10/2026 15:47,SIT Lavale Campus,Other,PMPML City Bus,Cab (Ola/Uber),Night (After 8 PM),74,18,Chandni Chowk,1
+3/10/2026 15:53,Pashan,Hinjewadi,Cab (Ola/Uber),Walking,Evening Peak (4 PM - 8 PM),80,316,University Circle,4
+3/10/2026 16:05,Other,Hinjewadi,Metro,None (Direct Trip),Night (After 8 PM),57,27,Hinjewadi Traffic,1
+3/10/2026 16:14,SIT Lavale Campus,Hinjewadi,PMPML City Bus,PMPML City Bus,Morning Peak (8 AM - 11 AM),113,37,None,1
+3/10/2026 16:53,Kothrud,Swargate,Metro,PMPML City Bus,Midday (11 AM - 4 PM),33,26,Yerawada/Kalyani Nagar junction,3
+3/10/2026 16:54,Kothrud,Swargate,Carpool,Auto Rickshaw,Night (After 8 PM),34,100,Hinjewadi Traffic,5
+3/10/2026 16:59,Wakad,Pune Station,Carpool,Auto Rickshaw,Evening Peak (4 PM - 8 PM),29,56,Waiting for Bus/Metro,4
+3/10/2026 17:10,Kothrud,Hinjewadi,Metro,Walking,Evening Peak (4 PM - 8 PM),42,32,Yerawada/Kalyani Nagar junction,4
+3/10/2026 17:35,Shivajinagar,Hinjewadi,Auto Rickshaw,PMPML City Bus,Night (After 8 PM),44,445,Hinjewadi Traffic,2
+3/10/2026 17:41,Baner,Other,Auto Rickshaw,Metro,Morning Peak (8 AM - 11 AM),49,412,University Circle,3
+3/10/2026 18:06,Kothrud,Pune Station,Personal Two-Wheeler,None (Direct Trip),Evening Peak (4 PM - 8 PM),57,46,Yerawada/Kalyani Nagar junction,2
+3/10/2026 18:34,SIT Lavale Campus,Pune Station,Carpool,Cab (Ola/Uber),Midday (11 AM - 4 PM),50,80,University Circle,4
+3/10/2026 18:41,Other,Kharadi,Metro,Cab (Ola/Uber),Evening Peak (4 PM - 8 PM),45,14,University Circle,2
+3/10/2026 18:54,Other,Swargate,Cab (Ola/Uber),Walking,Morning Peak (8 AM - 11 AM),46,350,None,5
+3/10/2026 19:04,SIT Lavale Campus,Swargate,Personal Two-Wheeler,Walking,Morning Peak (8 AM - 11 AM),77,50,None,5
+3/10/2026 19:08,Kothrud,Swargate,Auto Rickshaw,PMPML City Bus,Night (After 8 PM),84,160,Waiting for Bus/Metro,1
+3/10/2026 19:19,Other,Viman Nagar,Carpool,Auto Rickshaw,Evening Peak (4 PM - 8 PM),38,98,Waiting for Bus/Metro,2
+3/10/2026 19:29,Shivajinagar,Viman Nagar,Cab (Ola/Uber),PMPML City Bus,Evening Peak (4 PM - 8 PM),49,395,None,3
+3/10/2026 19:30,Shivajinagar,Viman Nagar,PMPML City Bus,Auto Rickshaw,Night (After 8 PM),66,36,Waiting for Bus/Metro,1
+3/10/2026 20:05,Pashan,Pune Station,Carpool,None (Direct Trip),Morning Peak (8 AM - 11 AM),56,68,None,5
+3/10/2026 20:06,Wakad,Kharadi,Auto Rickshaw,PMPML City Bus,Evening Peak (4 PM - 8 PM),71,192,Chandni Chowk,3
+3/10/2026 20:12,Shivajinagar,Hinjewadi,Cab (Ola/Uber),Walking,Midday (11 AM - 4 PM),78,393,Waiting for Bus/Metro,2
+3/10/2026 20:52,Pashan,Other,Cab (Ola/Uber),None (Direct Trip),Morning Peak (8 AM - 11 AM),75,306,Waiting for Bus/Metro,1
+3/10/2026 21:15,Other,Hinjewadi,Personal Two-Wheeler,None (Direct Trip),Morning Peak (8 AM - 11 AM),79,47,None,4
+3/10/2026 21:16,Kothrud,Swargate,Auto Rickshaw,Cab (Ola/Uber),Midday (11 AM - 4 PM),38,184,None,2
+3/10/2026 21:56,SIT Lavale Campus,Kharadi,Auto Rickshaw,Walking,Midday (11 AM - 4 PM),63,368,Hinjewadi Traffic,2
+3/10/2026 22:16,Wakad,Viman Nagar,Metro,Metro,Midday (11 AM - 4 PM),52,21,University Circle,2
+3/10/2026 22:56,Baner,Viman Nagar,Metro,Walking,Night (After 8 PM),41,17,Hinjewadi Traffic,5
+3/10/2026 23:03,SIT Lavale Campus,Viman Nagar,Metro,Walking,Evening Peak (4 PM - 8 PM),45,19,Yerawada/Kalyani Nagar junction,2
+3/10/2026 23:31,Kothrud,Swargate,Cab (Ola/Uber),Metro,Evening Peak (4 PM - 8 PM),45,276,University Circle,1
+3/10/2026 23:51,Pashan,Kharadi,Carpool,Auto Rickshaw,Morning Peak (8 AM - 11 AM),47,48,University Circle,1
+3/11/2026 0:04,Wakad,Hinjewadi,Auto Rickshaw,None (Direct Trip),Midday (11 AM - 4 PM),86,303,Waiting for Bus/Metro,1
+3/11/2026 0:15,Wakad,Swargate,Auto Rickshaw,Cab (Ola/Uber),Night (After 8 PM),75,298,Waiting for Bus/Metro,4
+3/11/2026 0:15,Wakad,Viman Nagar,Cab (Ola/Uber),PMPML City Bus,Night (After 8 PM),32,274,University Circle,3
+3/11/2026 0:17,Baner,Other,Metro,PMPML City Bus,Evening Peak (4 PM - 8 PM),34,32,Chandni Chowk,5
+3/11/2026 0:19,Wakad,Swargate,Personal Two-Wheeler,Walking,Night (After 8 PM),41,50,None,4
+3/11/2026 0:20,SIT Lavale Campus,Pune Station,Carpool,Metro,Midday (11 AM - 4 PM),76,91,None,1
+3/11/2026 1:03,Kothrud,Viman Nagar,PMPML City Bus,Cab (Ola/Uber),Evening Peak (4 PM - 8 PM),64,37,None,5
+3/11/2026 1:20,SIT Lavale Campus,Pune Station,Auto Rickshaw,Auto Rickshaw,Midday (11 AM - 4 PM),32,205,University Circle,2
+3/11/2026 1:25,Other,Kharadi,Cab (Ola/Uber),None (Direct Trip),Night (After 8 PM),85,288,Waiting for Bus/Metro,1
+3/11/2026 1:33,Pashan,Pune Station,Auto Rickshaw,None (Direct Trip),Evening Peak (4 PM - 8 PM),52,198,University Circle,3
+3/11/2026 1:40,Kothrud,Pune Station,PMPML City Bus,Metro,Night (After 8 PM),83,20,Chandni Chowk,4
+3/11/2026 3:16,Shivajinagar,Other,Metro,None (Direct Trip),Midday (11 AM - 4 PM),45,11,None,2
+3/11/2026 3:30,Wakad,Kharadi,PMPML City Bus,None (Direct Trip),Evening Peak (4 PM - 8 PM),62,50,None,3
+3/11/2026 3:38,Shivajinagar,Pune Station,Carpool,PMPML City Bus,Morning Peak (8 AM - 11 AM),72,52,Chandni Chowk,2
+3/11/2026 3:50,Pashan,Hinjewadi,Metro,Metro,Midday (11 AM - 4 PM),23,32,Hinjewadi Traffic,5
+3/11/2026 3:55,SIT Lavale Campus,Kharadi,Metro,PMPML City Bus,Morning Peak (8 AM - 11 AM),45,24,None,3
+3/11/2026 4:13,Shivajinagar,Swargate,Metro,Metro,Evening Peak (4 PM - 8 PM),50,35,None,3
+3/11/2026 4:35,Shivajinagar,Pune Station,Personal Two-Wheeler,None (Direct Trip),Midday (11 AM - 4 PM),66,43,University Circle,3
+3/11/2026 5:22,Baner,Pune Station,PMPML City Bus,None (Direct Trip),Midday (11 AM - 4 PM),90,50,Yerawada/Kalyani Nagar junction,1
+3/11/2026 5:50,Other,Swargate,Metro,Auto Rickshaw,Night (After 8 PM),26,10,Chandni Chowk,5
+3/11/2026 6:13,Wakad,Viman Nagar,Carpool,PMPML City Bus,Morning Peak (8 AM - 11 AM),34,96,Hinjewadi Traffic,3
+3/11/2026 6:40,Baner,Hinjewadi,Cab (Ola/Uber),Metro,Morning Peak (8 AM - 11 AM),46,444,None,1
+3/11/2026 7:03,SIT Lavale Campus,Viman Nagar,Personal Two-Wheeler,Cab (Ola/Uber),Morning Peak (8 AM - 11 AM),36,44,None,2
+3/11/2026 7:13,Other,Swargate,Carpool,Walking,Evening Peak (4 PM - 8 PM),29,62,Yerawada/Kalyani Nagar junction,1
+3/11/2026 7:22,Kothrud,Viman Nagar,Cab (Ola/Uber),Auto Rickshaw,Morning Peak (8 AM - 11 AM),49,160,Yerawada/Kalyani Nagar junction,4
+3/11/2026 7:40,Pashan,Viman Nagar,PMPML City Bus,Cab (Ola/Uber),Midday (11 AM - 4 PM),104,18,None,3
+3/11/2026 7:41,Baner,Swargate,Cab (Ola/Uber),Walking,Night (After 8 PM),68,326,Waiting for Bus/Metro,1
+3/11/2026 8:10,Baner,Pune Station,PMPML City Bus,None (Direct Trip),Night (After 8 PM),94,40,University Circle,5
+3/11/2026 8:21,Kothrud,Kharadi,Carpool,Cab (Ola/Uber),Evening Peak (4 PM - 8 PM),45,70,Waiting for Bus/Metro,5
+3/11/2026 8:25,Kothrud,Other,Carpool,None (Direct Trip),Evening Peak (4 PM - 8 PM),42,77,Waiting for Bus/Metro,4
+3/11/2026 8:30,Shivajinagar,Kharadi,Personal Two-Wheeler,Cab (Ola/Uber),Night (After 8 PM),47,70,Waiting for Bus/Metro,1
+3/11/2026 8:35,Shivajinagar,Viman Nagar,Metro,Auto Rickshaw,Morning Peak (8 AM - 11 AM),22,31,Waiting for Bus/Metro,1
+3/11/2026 8:37,Pashan,Viman Nagar,PMPML City Bus,Metro,Midday (11 AM - 4 PM),70,36,Waiting for Bus/Metro,4
+3/11/2026 8:48,Baner,Hinjewadi,Cab (Ola/Uber),Auto Rickshaw,Midday (11 AM - 4 PM),65,291,Hinjewadi Traffic,3
+3/11/2026 8:51,Kothrud,Pune Station,Personal Two-Wheeler,Auto Rickshaw,Evening Peak (4 PM - 8 PM),36,99,Yerawada/Kalyani Nagar junction,5
+3/11/2026 9:15,Kothrud,Viman Nagar,Personal Two-Wheeler,PMPML City Bus,Evening Peak (4 PM - 8 PM),47,72,None,1
+3/11/2026 9:35,Wakad,Kharadi,Metro,Walking,Morning Peak (8 AM - 11 AM),22,15,Waiting for Bus/Metro,4
+3/11/2026 9:35,Pashan,Kharadi,Metro,Metro,Evening Peak (4 PM - 8 PM),37,35,None,1
+3/11/2026 9:45,SIT Lavale Campus,Hinjewadi,Carpool,Auto Rickshaw,Midday (11 AM - 4 PM),57,88,None,1
+3/11/2026 9:47,Baner,Hinjewadi,Carpool,PMPML City Bus,Morning Peak (8 AM - 11 AM),38,96,Yerawada/Kalyani Nagar junction,3
+3/11/2026 9:53,Pashan,Other,Carpool,PMPML City Bus,Evening Peak (4 PM - 8 PM),55,69,Chandni Chowk,3
+3/11/2026 10:32,Kothrud,Other,Cab (Ola/Uber),None (Direct Trip),Morning Peak (8 AM - 11 AM),56,253,Chandni Chowk,3
+3/11/2026 10:48,Kothrud,Viman Nagar,Carpool,Cab (Ola/Uber),Midday (11 AM - 4 PM),49,68,Hinjewadi Traffic,1
+3/11/2026 11:02,SIT Lavale Campus,Viman Nagar,Metro,PMPML City Bus,Night (After 8 PM),34,34,University Circle,5
+3/11/2026 11:15,Pashan,Viman Nagar,PMPML City Bus,Cab (Ola/Uber),Morning Peak (8 AM - 11 AM),46,42,Yerawada/Kalyani Nagar junction,4
+3/11/2026 11:16,Wakad,Viman Nagar,Auto Rickshaw,Metro,Midday (11 AM - 4 PM),37,188,Chandni Chowk,2
+3/11/2026 11:29,Wakad,Kharadi,Carpool,None (Direct Trip),Midday (11 AM - 4 PM),56,97,Waiting for Bus/Metro,4
+3/11/2026 11:30,Kothrud,Pune Station,Metro,Auto Rickshaw,Midday (11 AM - 4 PM),36,27,University Circle,2
+3/11/2026 11:30,Kothrud,Swargate,Metro,Auto Rickshaw,Evening Peak (4 PM - 8 PM),57,16,Yerawada/Kalyani Nagar junction,5
+3/11/2026 11:49,Kothrud,Swargate,Personal Two-Wheeler,None (Direct Trip),Midday (11 AM - 4 PM),76,99,Waiting for Bus/Metro,1
+3/11/2026 12:00,Shivajinagar,Other,Metro,Walking,Night (After 8 PM),24,32,Hinjewadi Traffic,5
+3/11/2026 12:03,Other,Hinjewadi,PMPML City Bus,Auto Rickshaw,Morning Peak (8 AM - 11 AM),117,21,Yerawada/Kalyani Nagar junction,3
+3/11/2026 12:22,Kothrud,Pune Station,Carpool,Cab (Ola/Uber),Morning Peak (8 AM - 11 AM),47,47,None,5
+3/11/2026 12:32,Other,Swargate,Personal Two-Wheeler,Cab (Ola/Uber),Morning Peak (8 AM - 11 AM),80,73,None,2
+3/11/2026 12:47,Pashan,Viman Nagar,PMPML City Bus,PMPML City Bus,Evening Peak (4 PM - 8 PM),49,21,Yerawada/Kalyani Nagar junction,4
+3/11/2026 13:00,Baner,Pune Station,PMPML City Bus,None (Direct Trip),Evening Peak (4 PM - 8 PM),52,17,University Circle,3
+3/11/2026 13:12,SIT Lavale Campus,Other,Carpool,Metro,Midday (11 AM - 4 PM),68,73,Hinjewadi Traffic,1
+3/11/2026 13:18,Pashan,Kharadi,PMPML City Bus,None (Direct Trip),Night (After 8 PM),76,45,University Circle,3
+3/11/2026 13:21,Shivajinagar,Hinjewadi,Cab (Ola/Uber),Metro,Morning Peak (8 AM - 11 AM),76,339,None,3
+3/11/2026 13:33,SIT Lavale Campus,Kharadi,Carpool,Cab (Ola/Uber),Evening Peak (4 PM - 8 PM),50,88,Hinjewadi Traffic,5
+3/11/2026 13:40,Wakad,Swargate,Auto Rickshaw,Walking,Midday (11 AM - 4 PM),33,245,Waiting for Bus/Metro,4
+3/11/2026 13:47,Pashan,Swargate,Cab (Ola/Uber),PMPML City Bus,Midday (11 AM - 4 PM),70,211,Chandni Chowk,5
+3/11/2026 14:24,Kothrud,Other,Carpool,Auto Rickshaw,Midday (11 AM - 4 PM),49,74,None,3
+3/11/2026 14:35,Other,Viman Nagar,Auto Rickshaw,None (Direct Trip),Evening Peak (4 PM - 8 PM),90,430,Waiting for Bus/Metro,5
+3/11/2026 14:49,Pashan,Pune Station,Cab (Ola/Uber),Auto Rickshaw,Morning Peak (8 AM - 11 AM),43,428,Chandni Chowk,5
+3/11/2026 15:20,Pashan,Swargate,Carpool,PMPML City Bus,Evening Peak (4 PM - 8 PM),51,53,None,1
+3/11/2026 15:43,SIT Lavale Campus,Pune Station,Metro,Cab (Ola/Uber),Night (After 8 PM),35,13,Waiting for Bus/Metro,3
+3/11/2026 15:50,Other,Kharadi,Metro,PMPML City Bus,Evening Peak (4 PM - 8 PM),32,25,Waiting for Bus/Metro,2
+3/11/2026 16:02,Shivajinagar,Swargate,Carpool,Auto Rickshaw,Morning Peak (8 AM - 11 AM),61,52,Yerawada/Kalyani Nagar junction,4
+3/11/2026 16:09,Shivajinagar,Other,Personal Two-Wheeler,None (Direct Trip),Night (After 8 PM),37,50,Waiting for Bus/Metro,5
+3/11/2026 16:21,Kothrud,Pune Station,Auto Rickshaw,Metro,Midday (11 AM - 4 PM),88,306,Waiting for Bus/Metro,5
+3/11/2026 16:21,Baner,Kharadi,Cab (Ola/Uber),None (Direct Trip),Night (After 8 PM),45,220,Chandni Chowk,3
+3/11/2026 16:35,Pashan,Swargate,Cab (Ola/Uber),Cab (Ola/Uber),Evening Peak (4 PM - 8 PM),90,356,Yerawada/Kalyani Nagar junction,4
+3/11/2026 16:37,SIT Lavale Campus,Viman Nagar,Auto Rickshaw,Walking,Midday (11 AM - 4 PM),39,199,Waiting for Bus/Metro,4
+3/11/2026 17:12,Kothrud,Pune Station,Metro,PMPML City Bus,Evening Peak (4 PM - 8 PM),37,26,Waiting for Bus/Metro,2
+3/11/2026 17:14,Pashan,Kharadi,Metro,Auto Rickshaw,Midday (11 AM - 4 PM),40,20,Waiting for Bus/Metro,1
+3/11/2026 17:40,Wakad,Kharadi,PMPML City Bus,Cab (Ola/Uber),Night (After 8 PM),117,21,University Circle,1
+3/11/2026 17:54,Wakad,Viman Nagar,Carpool,Cab (Ola/Uber),Midday (11 AM - 4 PM),49,85,Chandni Chowk,5
+3/11/2026 18:14,Shivajinagar,Kharadi,Carpool,PMPML City Bus,Midday (11 AM - 4 PM),79,43,Hinjewadi Traffic,4
+3/11/2026 18:24,Other,Kharadi,Personal Two-Wheeler,Metro,Morning Peak (8 AM - 11 AM),40,43,None,4
+3/11/2026 19:00,SIT Lavale Campus,Other,Personal Two-Wheeler,PMPML City Bus,Evening Peak (4 PM - 8 PM),40,59,Yerawada/Kalyani Nagar junction,3
+3/11/2026 19:01,Other,Hinjewadi,Cab (Ola/Uber),None (Direct Trip),Evening Peak (4 PM - 8 PM),47,237,Chandni Chowk,4
+3/11/2026 19:22,Shivajinagar,Kharadi,Metro,Metro,Morning Peak (8 AM - 11 AM),20,20,University Circle,1
+3/11/2026 19:46,Wakad,Swargate,Auto Rickshaw,None (Direct Trip),Night (After 8 PM),82,190,Chandni Chowk,3
+3/11/2026 19:57,Baner,Viman Nagar,PMPML City Bus,Walking,Night (After 8 PM),88,27,Chandni Chowk,3
+3/11/2026 20:00,Baner,Pune Station,Metro,Auto Rickshaw,Midday (11 AM - 4 PM),41,33,University Circle,2
+3/11/2026 20:06,Pashan,Kharadi,Carpool,PMPML City Bus,Night (After 8 PM),53,81,Waiting for Bus/Metro,3
+3/11/2026 20:27,Shivajinagar,Pune Station,Cab (Ola/Uber),Auto Rickshaw,Midday (11 AM - 4 PM),76,166,Waiting for Bus/Metro,4
+3/11/2026 20:34,Wakad,Hinjewadi,Cab (Ola/Uber),None (Direct Trip),Midday (11 AM - 4 PM),69,320,Hinjewadi Traffic,2
+3/11/2026 20:35,Baner,Pune Station,Metro,Metro,Evening Peak (4 PM - 8 PM),33,35,Hinjewadi Traffic,2
+3/11/2026 20:41,Wakad,Viman Nagar,Cab (Ola/Uber),None (Direct Trip),Night (After 8 PM),89,381,Hinjewadi Traffic,2
+3/11/2026 20:42,Pashan,Viman Nagar,Carpool,Walking,Midday (11 AM - 4 PM),43,57,Chandni Chowk,2
+3/11/2026 20:46,Kothrud,Viman Nagar,Cab (Ola/Uber),PMPML City Bus,Midday (11 AM - 4 PM),33,366,None,3
+3/11/2026 21:27,Pashan,Pune Station,Auto Rickshaw,Cab (Ola/Uber),Night (After 8 PM),33,356,None,5
+3/11/2026 21:33,Pashan,Swargate,Cab (Ola/Uber),Cab (Ola/Uber),Midday (11 AM - 4 PM),67,422,Yerawada/Kalyani Nagar junction,2
+3/11/2026 21:44,SIT Lavale Campus,Other,PMPML City Bus,Cab (Ola/Uber),Midday (11 AM - 4 PM),47,33,Yerawada/Kalyani Nagar junction,5
+3/11/2026 21:54,Wakad,Pune Station,Cab (Ola/Uber),Auto Rickshaw,Midday (11 AM - 4 PM),37,366,Waiting for Bus/Metro,5
+3/11/2026 22:00,Baner,Kharadi,Cab (Ola/Uber),Walking,Night (After 8 PM),76,409,Waiting for Bus/Metro,3
+3/11/2026 22:14,Wakad,Swargate,Auto Rickshaw,Metro,Midday (11 AM - 4 PM),69,161,Waiting for Bus/Metro,4
+3/11/2026 22:17,Shivajinagar,Pune Station,Metro,Walking,Midday (11 AM - 4 PM),26,12,None,5
+3/11/2026 22:32,Baner,Viman Nagar,Metro,PMPML City Bus,Night (After 8 PM),26,23,Yerawada/Kalyani Nagar junction,5
+3/11/2026 22:57,Wakad,Swargate,PMPML City Bus,Walking,Evening Peak (4 PM - 8 PM),110,44,University Circle,5
+3/11/2026 23:26,Baner,Kharadi,PMPML City Bus,None (Direct Trip),Midday (11 AM - 4 PM),107,49,Waiting for Bus/Metro,4
+3/11/2026 23:30,Kothrud,Other,Auto Rickshaw,PMPML City Bus,Night (After 8 PM),67,252,Waiting for Bus/Metro,2
+3/11/2026 23:32,Other,Hinjewadi,Auto Rickshaw,Cab (Ola/Uber),Midday (11 AM - 4 PM),65,223,None,5
+3/11/2026 23:39,Baner,Kharadi,Cab (Ola/Uber),Walking,Midday (11 AM - 4 PM),90,308,Yerawada/Kalyani Nagar junction,1
+3/11/2026 23:46,Kothrud,Hinjewadi,Personal Two-Wheeler,PMPML City Bus,Evening Peak (4 PM - 8 PM),69,75,None,1
+3/11/2026 23:48,Pashan,Other,Cab (Ola/Uber),Auto Rickshaw,Night (After 8 PM),30,211,None,4
+3/11/2026 23:50,Wakad,Swargate,PMPML City Bus,Walking,Night (After 8 PM),70,46,Hinjewadi Traffic,3
+3/11/2026 23:51,Wakad,Swargate,PMPML City Bus,Cab (Ola/Uber),Evening Peak (4 PM - 8 PM),71,17,Chandni Chowk,4
+3/12/2026 0:02,Kothrud,Pune Station,Personal Two-Wheeler,Auto Rickshaw,Midday (11 AM - 4 PM),50,100,Waiting for Bus/Metro,3
+3/12/2026 0:52,SIT Lavale Campus,Swargate,Metro,Walking,Evening Peak (4 PM - 8 PM),50,19,Yerawada/Kalyani Nagar junction,5
+3/12/2026 1:09,Baner,Other,Carpool,Walking,Midday (11 AM - 4 PM),61,48,Chandni Chowk,5
+3/12/2026 1:12,Wakad,Pune Station,Cab (Ola/Uber),Walking,Evening Peak (4 PM - 8 PM),60,202,Chandni Chowk,1
+3/12/2026 1:34,SIT Lavale Campus,Kharadi,PMPML City Bus,Cab (Ola/Uber),Night (After 8 PM),117,33,Waiting for Bus/Metro,3
+3/12/2026 1:53,Shivajinagar,Pune Station,Cab (Ola/Uber),Metro,Evening Peak (4 PM - 8 PM),43,321,Yerawada/Kalyani Nagar junction,4
+3/12/2026 1:56,Kothrud,Swargate,PMPML City Bus,Metro,Night (After 8 PM),59,19,None,2
+3/12/2026 2:18,Pashan,Hinjewadi,Carpool,PMPML City Bus,Midday (11 AM - 4 PM),80,61,None,1
+3/12/2026 2:31,SIT Lavale Campus,Swargate,Cab (Ola/Uber),Cab (Ola/Uber),Midday (11 AM - 4 PM),48,278,University Circle,2
+3/12/2026 2:37,SIT Lavale Campus,Swargate,Carpool,None (Direct Trip),Midday (11 AM - 4 PM),63,75,Waiting for Bus/Metro,4
+3/12/2026 2:51,Pashan,Hinjewadi,Personal Two-Wheeler,None (Direct Trip),Night (After 8 PM),42,56,None,4
+3/12/2026 3:00,Other,Kharadi,Metro,None (Direct Trip),Morning Peak (8 AM - 11 AM),31,21,Chandni Chowk,5
+3/12/2026 3:06,Other,Hinjewadi,PMPML City Bus,Metro,Midday (11 AM - 4 PM),52,28,Hinjewadi Traffic,2
+3/12/2026 3:09,Other,Hinjewadi,Carpool,Metro,Morning Peak (8 AM - 11 AM),70,83,Chandni Chowk,1
+3/12/2026 3:28,SIT Lavale Campus,Pune Station,Carpool,Cab (Ola/Uber),Evening Peak (4 PM - 8 PM),35,89,Yerawada/Kalyani Nagar junction,3
+3/12/2026 3:44,Shivajinagar,Viman Nagar,Carpool,PMPML City Bus,Midday (11 AM - 4 PM),32,85,Hinjewadi Traffic,4
+3/12/2026 4:03,Shivajinagar,Kharadi,Metro,Auto Rickshaw,Midday (11 AM - 4 PM),35,15,University Circle,5
+3/12/2026 4:19,SIT Lavale Campus,Hinjewadi,Carpool,None (Direct Trip),Night (After 8 PM),43,48,Yerawada/Kalyani Nagar junction,2
+3/12/2026 5:01,Wakad,Swargate,Personal Two-Wheeler,None (Direct Trip),Night (After 8 PM),49,81,Chandni Chowk,1
+3/12/2026 5:14,SIT Lavale Campus,Viman Nagar,Carpool,None (Direct Trip),Evening Peak (4 PM - 8 PM),52,55,University Circle,1
+3/12/2026 5:21,Wakad,Other,Auto Rickshaw,PMPML City Bus,Morning Peak (8 AM - 11 AM),62,168,University Circle,5
+3/12/2026 5:22,Baner,Swargate,Carpool,Metro,Night (After 8 PM),51,79,Waiting for Bus/Metro,4
+3/12/2026 5:30,Other,Pune Station,Cab (Ola/Uber),None (Direct Trip),Night (After 8 PM),88,184,Yerawada/Kalyani Nagar junction,1
+3/12/2026 5:31,SIT Lavale Campus,Pune Station,Cab (Ola/Uber),Auto Rickshaw,Evening Peak (4 PM - 8 PM),67,211,Hinjewadi Traffic,5
+3/12/2026 5:36,Kothrud,Swargate,PMPML City Bus,Metro,Night (After 8 PM),71,44,Chandni Chowk,4
+3/12/2026 5:37,SIT Lavale Campus,Other,Cab (Ola/Uber),None (Direct Trip),Morning Peak (8 AM - 11 AM),46,200,None,5
+3/12/2026 6:06,SIT Lavale Campus,Kharadi,Auto Rickshaw,None (Direct Trip),Midday (11 AM - 4 PM),65,155,University Circle,1
+3/12/2026 6:27,Baner,Swargate,Metro,Auto Rickshaw,Morning Peak (8 AM - 11 AM),32,34,Hinjewadi Traffic,2
+3/12/2026 6:30,Shivajinagar,Pune Station,Personal Two-Wheeler,Metro,Morning Peak (8 AM - 11 AM),65,76,University Circle,2
+3/12/2026 6:36,Shivajinagar,Hinjewadi,PMPML City Bus,Metro,Morning Peak (8 AM - 11 AM),89,44,Waiting for Bus/Metro,3
+3/12/2026 7:38,Shivajinagar,Viman Nagar,PMPML City Bus,Auto Rickshaw,Midday (11 AM - 4 PM),116,50,None,3
+3/12/2026 7:45,Wakad,Kharadi,Metro,Metro,Night (After 8 PM),32,21,Yerawada/Kalyani Nagar junction,4
+3/12/2026 8:03,Shivajinagar,Pune Station,Auto Rickshaw,Auto Rickshaw,Midday (11 AM - 4 PM),49,382,Chandni Chowk,1
+3/12/2026 8:16,SIT Lavale Campus,Kharadi,PMPML City Bus,Metro,Midday (11 AM - 4 PM),90,36,None,3
+3/12/2026 8:18,Baner,Pune Station,Auto Rickshaw,Metro,Midday (11 AM - 4 PM),87,321,Chandni Chowk,3
+3/12/2026 8:42,Wakad,Pune Station,Carpool,Auto Rickshaw,Evening Peak (4 PM - 8 PM),66,55,Yerawada/Kalyani Nagar junction,5
+3/12/2026 8:50,Pashan,Kharadi,Carpool,Metro,Night (After 8 PM),36,67,Waiting for Bus/Metro,4
+3/12/2026 9:03,Shivajinagar,Swargate,Metro,Metro,Morning Peak (8 AM - 11 AM),25,30,Waiting for Bus/Metro,1
+3/12/2026 9:23,Wakad,Kharadi,Metro,PMPML City Bus,Evening Peak (4 PM - 8 PM),30,10,Yerawada/Kalyani Nagar junction,4
+3/12/2026 10:05,Pashan,Hinjewadi,Metro,Cab (Ola/Uber),Midday (11 AM - 4 PM),56,32,University Circle,1
+3/12/2026 10:18,Shivajinagar,Other,Auto Rickshaw,Cab (Ola/Uber),Evening Peak (4 PM - 8 PM),80,439,Chandni Chowk,2
+3/12/2026 10:37,Baner,Viman Nagar,Personal Two-Wheeler,Walking,Night (After 8 PM),32,63,Chandni Chowk,5
+3/12/2026 10:44,Shivajinagar,Viman Nagar,Cab (Ola/Uber),Metro,Night (After 8 PM),57,401,University Circle,1
+3/12/2026 10:53,Shivajinagar,Hinjewadi,Auto Rickshaw,Walking,Morning Peak (8 AM - 11 AM),65,172,Yerawada/Kalyani Nagar junction,4
+3/12/2026 11:16,Kothrud,Other,Metro,Metro,Night (After 8 PM),22,24,None,2
+3/12/2026 11:48,Other,Kharadi,Personal Two-Wheeler,Cab (Ola/Uber),Evening Peak (4 PM - 8 PM),48,68,University Circle,1
+3/12/2026 11:50,Wakad,Swargate,PMPML City Bus,None (Direct Trip),Night (After 8 PM),53,24,Hinjewadi Traffic,1
+3/12/2026 12:13,Wakad,Swargate,Carpool,Metro,Midday (11 AM - 4 PM),78,61,Yerawada/Kalyani Nagar junction,5
+3/12/2026 12:16,SIT Lavale Campus,Viman Nagar,Cab (Ola/Uber),PMPML City Bus,Evening Peak (4 PM - 8 PM),45,392,Waiting for Bus/Metro,5
+3/12/2026 12:19,Pashan,Kharadi,Metro,Metro,Night (After 8 PM),53,27,University Circle,3
+3/12/2026 12:39,SIT Lavale Campus,Kharadi,Metro,Cab (Ola/Uber),Midday (11 AM - 4 PM),23,14,None,5
+3/12/2026 12:44,SIT Lavale Campus,Swargate,Auto Rickshaw,Walking,Night (After 8 PM),34,310,Chandni Chowk,3
+3/12/2026 13:14,Wakad,Hinjewadi,PMPML City Bus,Metro,Evening Peak (4 PM - 8 PM),47,27,None,1
+3/12/2026 13:16,Kothrud,Swargate,PMPML City Bus,Cab (Ola/Uber),Night (After 8 PM),61,43,Hinjewadi Traffic,2
+3/12/2026 13:46,SIT Lavale Campus,Kharadi,Carpool,Cab (Ola/Uber),Morning Peak (8 AM - 11 AM),55,51,Chandni Chowk,5
+3/12/2026 15:06,Kothrud,Hinjewadi,Metro,None (Direct Trip),Night (After 8 PM),49,17,Hinjewadi Traffic,5
+3/12/2026 15:40,SIT Lavale Campus,Other,Cab (Ola/Uber),Cab (Ola/Uber),Night (After 8 PM),59,222,University Circle,5
+3/12/2026 16:04,Shivajinagar,Kharadi,PMPML City Bus,Cab (Ola/Uber),Morning Peak (8 AM - 11 AM),59,39,Chandni Chowk,5
+3/12/2026 16:14,Shivajinagar,Kharadi,Auto Rickshaw,Cab (Ola/Uber),Evening Peak (4 PM - 8 PM),43,442,Waiting for Bus/Metro,3
+3/12/2026 16:28,Baner,Viman Nagar,PMPML City Bus,PMPML City Bus,Midday (11 AM - 4 PM),59,28,Hinjewadi Traffic,3
+3/12/2026 16:48,Baner,Other,Cab (Ola/Uber),Auto Rickshaw,Morning Peak (8 AM - 11 AM),59,165,University Circle,5
+3/12/2026 16:55,Pashan,Viman Nagar,PMPML City Bus,Walking,Night (After 8 PM),115,39,Hinjewadi Traffic,5
+3/12/2026 17:20,Baner,Kharadi,Auto Rickshaw,Cab (Ola/Uber),Night (After 8 PM),68,208,Hinjewadi Traffic,3
+3/12/2026 17:20,Kothrud,Other,Carpool,Walking,Evening Peak (4 PM - 8 PM),47,50,Hinjewadi Traffic,2
+3/12/2026 17:33,Shivajinagar,Pune Station,Personal Two-Wheeler,Metro,Midday (11 AM - 4 PM),79,73,Chandni Chowk,5
+3/12/2026 17:33,SIT Lavale Campus,Hinjewadi,Cab (Ola/Uber),Metro,Midday (11 AM - 4 PM),49,249,Yerawada/Kalyani Nagar junction,1
+3/12/2026 17:36,Kothrud,Kharadi,Auto Rickshaw,Auto Rickshaw,Midday (11 AM - 4 PM),44,366,None,1
+3/12/2026 17:49,Baner,Other,Carpool,PMPML City Bus,Evening Peak (4 PM - 8 PM),76,99,Chandni Chowk,1
+3/12/2026 18:08,Shivajinagar,Swargate,Metro,Cab (Ola/Uber),Morning Peak (8 AM - 11 AM),31,22,University Circle,4
+3/12/2026 18:45,Kothrud,Other,Personal Two-Wheeler,PMPML City Bus,Midday (11 AM - 4 PM),74,93,University Circle,4
+3/12/2026 19:03,Pashan,Kharadi,Cab (Ola/Uber),PMPML City Bus,Midday (11 AM - 4 PM),89,434,Chandni Chowk,5
+3/12/2026 19:08,Kothrud,Hinjewadi,Cab (Ola/Uber),Cab (Ola/Uber),Night (After 8 PM),70,308,University Circle,5
+3/12/2026 19:09,SIT Lavale Campus,Hinjewadi,PMPML City Bus,Metro,Morning Peak (8 AM - 11 AM),87,27,Yerawada/Kalyani Nagar junction,2
+3/12/2026 19:14,SIT Lavale Campus,Other,Cab (Ola/Uber),PMPML City Bus,Evening Peak (4 PM - 8 PM),32,249,Hinjewadi Traffic,2
+3/12/2026 19:33,Kothrud,Viman Nagar,Personal Two-Wheeler,PMPML City Bus,Midday (11 AM - 4 PM),53,75,Waiting for Bus/Metro,2
+3/12/2026 19:52,Shivajinagar,Other,Carpool,Walking,Morning Peak (8 AM - 11 AM),74,99,Chandni Chowk,3
+3/12/2026 20:24,SIT Lavale Campus,Swargate,Cab (Ola/Uber),Auto Rickshaw,Midday (11 AM - 4 PM),81,335,Chandni Chowk,2
+3/12/2026 20:33,Kothrud,Swargate,Auto Rickshaw,None (Direct Trip),Night (After 8 PM),30,209,Chandni Chowk,4
+3/12/2026 20:48,Other,Hinjewadi,Auto Rickshaw,Walking,Morning Peak (8 AM - 11 AM),44,213,None,1
+3/12/2026 21:00,Kothrud,Other,Cab (Ola/Uber),Metro,Midday (11 AM - 4 PM),39,394,Hinjewadi Traffic,4
+3/12/2026 21:06,SIT Lavale Campus,Viman Nagar,Auto Rickshaw,Cab (Ola/Uber),Night (After 8 PM),79,233,Waiting for Bus/Metro,3
+3/12/2026 21:25,Pashan,Kharadi,Metro,None (Direct Trip),Night (After 8 PM),21,23,None,4
+3/12/2026 21:35,SIT Lavale Campus,Kharadi,Cab (Ola/Uber),None (Direct Trip),Evening Peak (4 PM - 8 PM),68,228,Chandni Chowk,4
+3/12/2026 21:45,Wakad,Viman Nagar,Cab (Ola/Uber),Cab (Ola/Uber),Morning Peak (8 AM - 11 AM),37,334,None,1
+3/12/2026 21:51,SIT Lavale Campus,Other,Personal Two-Wheeler,Auto Rickshaw,Midday (11 AM - 4 PM),48,60,Yerawada/Kalyani Nagar junction,5
+3/12/2026 21:55,Other,Hinjewadi,Auto Rickshaw,Walking,Night (After 8 PM),53,395,Yerawada/Kalyani Nagar junction,1
+3/12/2026 22:16,SIT Lavale Campus,Swargate,Personal Two-Wheeler,Cab (Ola/Uber),Night (After 8 PM),73,49,Hinjewadi Traffic,2
+3/12/2026 22:35,Shivajinagar,Hinjewadi,PMPML City Bus,None (Direct Trip),Evening Peak (4 PM - 8 PM),86,27,Chandni Chowk,4
+3/12/2026 22:55,Wakad,Viman Nagar,Auto Rickshaw,Auto Rickshaw,Midday (11 AM - 4 PM),39,376,Waiting for Bus/Metro,5
+3/12/2026 23:07,Shivajinagar,Viman Nagar,Cab (Ola/Uber),Cab (Ola/Uber),Morning Peak (8 AM - 11 AM),83,225,University Circle,3
+3/12/2026 23:09,Baner,Viman Nagar,Carpool,Metro,Evening Peak (4 PM - 8 PM),36,56,Hinjewadi Traffic,2
+3/12/2026 23:22,Other,Hinjewadi,Cab (Ola/Uber),PMPML City Bus,Night (After 8 PM),84,349,Hinjewadi Traffic,5
+3/12/2026 23:50,Other,Pune Station,PMPML City Bus,Metro,Midday (11 AM - 4 PM),59,43,Yerawada/Kalyani Nagar junction,5
+3/13/2026 0:16,Pashan,Pune Station,PMPML City Bus,Metro,Morning Peak (8 AM - 11 AM),73,42,Chandni Chowk,4
+3/13/2026 0:17,Shivajinagar,Pune Station,Metro,Metro,Evening Peak (4 PM - 8 PM),34,33,None,3
+3/13/2026 0:39,SIT Lavale Campus,Pune Station,Personal Two-Wheeler,PMPML City Bus,Night (After 8 PM),71,59,None,5
+3/13/2026 0:52,Other,Viman Nagar,Auto Rickshaw,Auto Rickshaw,Midday (11 AM - 4 PM),87,339,Yerawada/Kalyani Nagar junction,3
+3/13/2026 1:12,SIT Lavale Campus,Other,PMPML City Bus,Walking,Night (After 8 PM),117,23,Hinjewadi Traffic,3
+3/13/2026 1:20,Shivajinagar,Swargate,Metro,None (Direct Trip),Night (After 8 PM),59,31,Hinjewadi Traffic,1
+3/13/2026 1:44,Kothrud,Other,Carpool,Cab (Ola/Uber),Night (After 8 PM),73,52,University Circle,1
+3/13/2026 2:08,Wakad,Hinjewadi,Auto Rickshaw,Metro,Evening Peak (4 PM - 8 PM),64,256,Hinjewadi Traffic,1
+3/13/2026 2:23,Kothrud,Pune Station,Metro,Cab (Ola/Uber),Midday (11 AM - 4 PM),46,28,University Circle,2
+3/13/2026 2:25,Wakad,Kharadi,Personal Two-Wheeler,PMPML City Bus,Morning Peak (8 AM - 11 AM),71,49,Hinjewadi Traffic,3
+3/13/2026 2:32,Shivajinagar,Other,Cab (Ola/Uber),PMPML City Bus,Morning Peak (8 AM - 11 AM),34,264,Chandni Chowk,4
+3/13/2026 2:33,SIT Lavale Campus,Kharadi,Carpool,Auto Rickshaw,Evening Peak (4 PM - 8 PM),37,76,Yerawada/Kalyani Nagar junction,3
+3/13/2026 3:09,Kothrud,Pune Station,Carpool,Cab (Ola/Uber),Night (After 8 PM),77,42,Hinjewadi Traffic,1
+3/13/2026 3:10,SIT Lavale Campus,Swargate,Personal Two-Wheeler,PMPML City Bus,Midday (11 AM - 4 PM),53,70,Waiting for Bus/Metro,2
+3/13/2026 3:13,Shivajinagar,Viman Nagar,Metro,Walking,Midday (11 AM - 4 PM),20,24,Yerawada/Kalyani Nagar junction,2
+3/13/2026 3:25,Kothrud,Pune Station,Carpool,Walking,Morning Peak (8 AM - 11 AM),26,96,Chandni Chowk,4
+3/13/2026 3:41,Baner,Kharadi,Cab (Ola/Uber),Metro,Midday (11 AM - 4 PM),75,254,University Circle,3
+3/13/2026 3:44,Kothrud,Viman Nagar,Carpool,Cab (Ola/Uber),Evening Peak (4 PM - 8 PM),34,43,None,3
+3/13/2026 3:49,Other,Viman Nagar,Personal Two-Wheeler,Walking,Midday (11 AM - 4 PM),26,57,Yerawada/Kalyani Nagar junction,1
+3/13/2026 3:55,SIT Lavale Campus,Viman Nagar,Auto Rickshaw,None (Direct Trip),Midday (11 AM - 4 PM),77,215,Hinjewadi Traffic,2
+3/13/2026 4:09,Pashan,Pune Station,Cab (Ola/Uber),Cab (Ola/Uber),Midday (11 AM - 4 PM),88,340,Waiting for Bus/Metro,4
+3/13/2026 4:09,Other,Pune Station,Auto Rickshaw,Cab (Ola/Uber),Evening Peak (4 PM - 8 PM),58,191,Yerawada/Kalyani Nagar junction,1
+3/13/2026 4:24,Pashan,Pune Station,Cab (Ola/Uber),Walking,Evening Peak (4 PM - 8 PM),32,403,None,3
+3/13/2026 4:43,Baner,Other,Metro,Walking,Evening Peak (4 PM - 8 PM),52,33,University Circle,1
+3/13/2026 5:18,Pashan,Viman Nagar,Metro,Cab (Ola/Uber),Night (After 8 PM),32,23,None,1
+3/13/2026 5:24,Kothrud,Viman Nagar,Personal Two-Wheeler,Auto Rickshaw,Evening Peak (4 PM - 8 PM),42,63,None,1
+3/13/2026 6:16,Wakad,Other,Personal Two-Wheeler,Walking,Night (After 8 PM),38,55,Chandni Chowk,1
+3/13/2026 6:19,SIT Lavale Campus,Other,Cab (Ola/Uber),PMPML City Bus,Midday (11 AM - 4 PM),39,223,University Circle,1
+3/13/2026 6:20,Kothrud,Hinjewadi,Auto Rickshaw,PMPML City Bus,Morning Peak (8 AM - 11 AM),31,283,Chandni Chowk,1
+3/13/2026 6:42,Wakad,Viman Nagar,PMPML City Bus,Walking,Evening Peak (4 PM - 8 PM),81,25,Chandni Chowk,2
+3/13/2026 6:53,Other,Pune Station,Personal Two-Wheeler,Cab (Ola/Uber),Midday (11 AM - 4 PM),29,72,Hinjewadi Traffic,5
+3/13/2026 7:09,Baner,Swargate,Auto Rickshaw,Metro,Morning Peak (8 AM - 11 AM),59,338,Waiting for Bus/Metro,1
+3/13/2026 7:24,Kothrud,Pune Station,PMPML City Bus,Metro,Midday (11 AM - 4 PM),76,37,None,3
+3/13/2026 7:25,Other,Viman Nagar,Metro,Cab (Ola/Uber),Night (After 8 PM),58,23,Waiting for Bus/Metro,4
+3/13/2026 7:26,Kothrud,Pune Station,Carpool,Auto Rickshaw,Midday (11 AM - 4 PM),75,58,University Circle,5
+3/13/2026 7:30,Baner,Kharadi,Metro,Auto Rickshaw,Midday (11 AM - 4 PM),53,25,None,3
+3/13/2026 7:38,Pashan,Kharadi,Cab (Ola/Uber),Auto Rickshaw,Midday (11 AM - 4 PM),35,309,Waiting for Bus/Metro,1
+3/13/2026 7:47,Pashan,Pune Station,Carpool,Auto Rickshaw,Midday (11 AM - 4 PM),60,54,University Circle,5
+3/13/2026 7:50,SIT Lavale Campus,Swargate,Carpool,Metro,Midday (11 AM - 4 PM),65,69,None,1
+3/13/2026 8:17,Shivajinagar,Viman Nagar,Cab (Ola/Uber),None (Direct Trip),Midday (11 AM - 4 PM),59,189,Yerawada/Kalyani Nagar junction,5
+3/13/2026 8:23,Other,Swargate,PMPML City Bus,None (Direct Trip),Midday (11 AM - 4 PM),109,22,Chandni Chowk,5
+3/13/2026 8:32,Shivajinagar,Hinjewadi,Metro,None (Direct Trip),Morning Peak (8 AM - 11 AM),35,27,University Circle,3
+3/13/2026 8:52,Kothrud,Other,PMPML City Bus,Cab (Ola/Uber),Morning Peak (8 AM - 11 AM),52,17,Hinjewadi Traffic,4
+3/13/2026 9:00,Other,Viman Nagar,Cab (Ola/Uber),PMPML City Bus,Night (After 8 PM),61,277,University Circle,5
+3/13/2026 9:05,Baner,Viman Nagar,PMPML City Bus,Metro,Midday (11 AM - 4 PM),78,15,Yerawada/Kalyani Nagar junction,3
+3/13/2026 9:18,Wakad,Kharadi,Auto Rickshaw,Walking,Night (After 8 PM),55,156,Yerawada/Kalyani Nagar junction,3
+3/13/2026 9:24,Pashan,Other,Auto Rickshaw,Metro,Evening Peak (4 PM - 8 PM),45,331,None,1
+3/13/2026 9:34,Other,Hinjewadi,Cab (Ola/Uber),Cab (Ola/Uber),Midday (11 AM - 4 PM),86,436,None,2
+3/13/2026 9:37,Other,Pune Station,Personal Two-Wheeler,Walking,Midday (11 AM - 4 PM),27,40,Yerawada/Kalyani Nagar junction,5
+3/13/2026 9:46,Shivajinagar,Kharadi,PMPML City Bus,None (Direct Trip),Evening Peak (4 PM - 8 PM),99,28,Hinjewadi Traffic,4
+3/13/2026 10:00,Baner,Kharadi,Cab (Ola/Uber),None (Direct Trip),Morning Peak (8 AM - 11 AM),43,363,Yerawada/Kalyani Nagar junction,4
+3/13/2026 10:01,Baner,Pune Station,Cab (Ola/Uber),PMPML City Bus,Night (After 8 PM),41,285,None,1
+3/13/2026 10:24,Shivajinagar,Other,Carpool,Cab (Ola/Uber),Midday (11 AM - 4 PM),58,98,Yerawada/Kalyani Nagar junction,3
+3/13/2026 10:46,Baner,Hinjewadi,Cab (Ola/Uber),Metro,Night (After 8 PM),54,211,Waiting for Bus/Metro,4
+3/13/2026 10:49,Wakad,Viman Nagar,Metro,PMPML City Bus,Night (After 8 PM),35,24,Hinjewadi Traffic,2
+3/13/2026 10:52,SIT Lavale Campus,Kharadi,Personal Two-Wheeler,Walking,Midday (11 AM - 4 PM),43,57,University Circle,4
+3/13/2026 11:00,Baner,Swargate,Carpool,PMPML City Bus,Evening Peak (4 PM - 8 PM),37,89,None,4
+3/13/2026 11:25,Baner,Swargate,Carpool,Metro,Evening Peak (4 PM - 8 PM),59,65,Chandni Chowk,4
+3/13/2026 11:27,Kothrud,Viman Nagar,PMPML City Bus,None (Direct Trip),Midday (11 AM - 4 PM),53,44,None,4
+3/13/2026 11:33,Pashan,Kharadi,Carpool,Walking,Evening Peak (4 PM - 8 PM),46,67,University Circle,3
+3/13/2026 11:37,Kothrud,Viman Nagar,Carpool,Walking,Evening Peak (4 PM - 8 PM),70,68,Yerawada/Kalyani Nagar junction,2
+3/13/2026 11:39,Pashan,Swargate,Auto Rickshaw,Auto Rickshaw,Morning Peak (8 AM - 11 AM),80,243,Yerawada/Kalyani Nagar junction,1
+3/13/2026 11:43,SIT Lavale Campus,Kharadi,Auto Rickshaw,Walking,Night (After 8 PM),83,180,University Circle,2
+3/13/2026 12:48,Shivajinagar,Swargate,Carpool,PMPML City Bus,Night (After 8 PM),62,92,Waiting for Bus/Metro,4
+3/13/2026 12:54,Pashan,Other,Carpool,Cab (Ola/Uber),Midday (11 AM - 4 PM),75,68,University Circle,4
+3/13/2026 13:13,SIT Lavale Campus,Swargate,Cab (Ola/Uber),None (Direct Trip),Night (After 8 PM),50,340,Waiting for Bus/Metro,3
+3/13/2026 13:29,Baner,Viman Nagar,PMPML City Bus,Metro,Midday (11 AM - 4 PM),70,43,Yerawada/Kalyani Nagar junction,4
+3/13/2026 13:30,Kothrud,Swargate,PMPML City Bus,Metro,Midday (11 AM - 4 PM),51,15,Hinjewadi Traffic,5
+3/13/2026 13:31,Baner,Kharadi,Personal Two-Wheeler,Metro,Night (After 8 PM),78,43,Yerawada/Kalyani Nagar junction,1
+3/13/2026 14:02,Other,Pune Station,Auto Rickshaw,Metro,Night (After 8 PM),53,210,Waiting for Bus/Metro,2
+3/13/2026 14:12,Pashan,Viman Nagar,Carpool,Cab (Ola/Uber),Midday (11 AM - 4 PM),70,85,University Circle,2
+3/13/2026 14:13,SIT Lavale Campus,Viman Nagar,Personal Two-Wheeler,PMPML City Bus,Midday (11 AM - 4 PM),73,78,Hinjewadi Traffic,1
+3/13/2026 14:37,SIT Lavale Campus,Pune Station,PMPML City Bus,Walking,Night (After 8 PM),54,23,None,4
+3/13/2026 14:41,Other,Kharadi,Metro,Cab (Ola/Uber),Night (After 8 PM),55,27,Hinjewadi Traffic,3
+3/13/2026 15:18,Wakad,Swargate,Auto Rickshaw,Auto Rickshaw,Evening Peak (4 PM - 8 PM),30,407,None,1
+3/13/2026 15:20,Shivajinagar,Swargate,Personal Two-Wheeler,Cab (Ola/Uber),Evening Peak (4 PM - 8 PM),63,59,Chandni Chowk,5
+3/13/2026 15:21,Kothrud,Hinjewadi,Auto Rickshaw,Auto Rickshaw,Midday (11 AM - 4 PM),81,357,Chandni Chowk,5
+3/13/2026 15:23,SIT Lavale Campus,Swargate,Cab (Ola/Uber),Metro,Morning Peak (8 AM - 11 AM),46,289,Hinjewadi Traffic,4
+3/13/2026 15:27,Pashan,Swargate,PMPML City Bus,Cab (Ola/Uber),Morning Peak (8 AM - 11 AM),118,45,Hinjewadi Traffic,5
+3/13/2026 15:32,Pashan,Other,Metro,PMPML City Bus,Morning Peak (8 AM - 11 AM),40,10,Chandni Chowk,1
+3/13/2026 15:54,Wakad,Kharadi,Metro,Walking,Evening Peak (4 PM - 8 PM),44,25,Hinjewadi Traffic,1
+3/13/2026 15:57,Kothrud,Other,PMPML City Bus,Walking,Evening Peak (4 PM - 8 PM),47,15,Hinjewadi Traffic,3
+3/13/2026 16:07,SIT Lavale Campus,Viman Nagar,Carpool,None (Direct Trip),Evening Peak (4 PM - 8 PM),53,78,Yerawada/Kalyani Nagar junction,4
+3/13/2026 16:23,Shivajinagar,Swargate,PMPML City Bus,Cab (Ola/Uber),Evening Peak (4 PM - 8 PM),55,21,Yerawada/Kalyani Nagar junction,1
+3/13/2026 16:30,Baner,Hinjewadi,Metro,Walking,Midday (11 AM - 4 PM),27,11,Waiting for Bus/Metro,5
+3/13/2026 16:31,Other,Kharadi,Metro,None (Direct Trip),Evening Peak (4 PM - 8 PM),24,19,Waiting for Bus/Metro,3
+3/13/2026 16:42,Baner,Other,Personal Two-Wheeler,Walking,Evening Peak (4 PM - 8 PM),52,74,None,5
+3/13/2026 16:45,Kothrud,Pune Station,PMPML City Bus,Auto Rickshaw,Midday (11 AM - 4 PM),110,21,Waiting for Bus/Metro,2
+3/13/2026 17:04,Baner,Hinjewadi,Personal Two-Wheeler,Walking,Night (After 8 PM),64,81,Yerawada/Kalyani Nagar junction,5
+3/13/2026 17:13,Pashan,Swargate,PMPML City Bus,Metro,Morning Peak (8 AM - 11 AM),113,42,Hinjewadi Traffic,1
+3/13/2026 17:32,Pashan,Pune Station,Carpool,Cab (Ola/Uber),Morning Peak (8 AM - 11 AM),47,42,Hinjewadi Traffic,1
+3/13/2026 18:06,Wakad,Hinjewadi,PMPML City Bus,Walking,Night (After 8 PM),77,29,Yerawada/Kalyani Nagar junction,5
+3/13/2026 18:08,Pashan,Swargate,Cab (Ola/Uber),PMPML City Bus,Morning Peak (8 AM - 11 AM),58,263,Waiting for Bus/Metro,1
+3/13/2026 18:09,Other,Swargate,Carpool,None (Direct Trip),Evening Peak (4 PM - 8 PM),43,75,Waiting for Bus/Metro,2
+3/13/2026 18:21,Pashan,Swargate,Metro,Auto Rickshaw,Morning Peak (8 AM - 11 AM),28,33,University Circle,2
+3/13/2026 18:25,Shivajinagar,Hinjewadi,Auto Rickshaw,Auto Rickshaw,Midday (11 AM - 4 PM),35,205,Chandni Chowk,3
+3/13/2026 18:29,Shivajinagar,Pune Station,PMPML City Bus,Cab (Ola/Uber),Morning Peak (8 AM - 11 AM),56,38,Hinjewadi Traffic,3
+3/13/2026 18:30,Pashan,Other,Metro,Auto Rickshaw,Night (After 8 PM),23,12,University Circle,1
+3/13/2026 18:42,Pashan,Pune Station,Carpool,Cab (Ola/Uber),Midday (11 AM - 4 PM),68,64,Waiting for Bus/Metro,5
+3/13/2026 18:52,SIT Lavale Campus,Swargate,PMPML City Bus,Walking,Midday (11 AM - 4 PM),99,42,Yerawada/Kalyani Nagar junction,4
+3/13/2026 18:54,Pashan,Kharadi,Metro,None (Direct Trip),Evening Peak (4 PM - 8 PM),46,19,Yerawada/Kalyani Nagar junction,2
+3/13/2026 19:09,SIT Lavale Campus,Viman Nagar,PMPML City Bus,None (Direct Trip),Morning Peak (8 AM - 11 AM),91,32,None,5
+3/13/2026 19:44,Shivajinagar,Other,Cab (Ola/Uber),None (Direct Trip),Morning Peak (8 AM - 11 AM),41,394,None,5
+3/13/2026 19:54,Shivajinagar,Other,Carpool,Cab (Ola/Uber),Morning Peak (8 AM - 11 AM),31,96,None,5
+3/13/2026 20:05,Pashan,Swargate,Carpool,Walking,Evening Peak (4 PM - 8 PM),68,78,Waiting for Bus/Metro,2
+3/13/2026 20:11,SIT Lavale Campus,Viman Nagar,Carpool,Auto Rickshaw,Morning Peak (8 AM - 11 AM),76,99,Chandni Chowk,5
+3/13/2026 20:11,Baner,Swargate,Metro,Metro,Midday (11 AM - 4 PM),44,18,Waiting for Bus/Metro,2
+3/13/2026 20:13,Other,Viman Nagar,Auto Rickshaw,Walking,Midday (11 AM - 4 PM),45,414,University Circle,4
+3/13/2026 20:25,Pashan,Viman Nagar,Personal Two-Wheeler,None (Direct Trip),Midday (11 AM - 4 PM),55,96,Yerawada/Kalyani Nagar junction,3
+3/13/2026 20:40,Baner,Pune Station,Personal Two-Wheeler,Cab (Ola/Uber),Night (After 8 PM),26,79,University Circle,1
+3/13/2026 21:05,Shivajinagar,Swargate,Personal Two-Wheeler,Cab (Ola/Uber),Morning Peak (8 AM - 11 AM),78,71,Chandni Chowk,4
+3/13/2026 21:17,Wakad,Pune Station,Metro,None (Direct Trip),Morning Peak (8 AM - 11 AM),25,23,Waiting for Bus/Metro,5
+3/13/2026 21:27,Kothrud,Viman Nagar,Carpool,Cab (Ola/Uber),Evening Peak (4 PM - 8 PM),48,73,Chandni Chowk,3
+3/13/2026 21:54,Wakad,Hinjewadi,PMPML City Bus,Auto Rickshaw,Morning Peak (8 AM - 11 AM),70,36,Yerawada/Kalyani Nagar junction,5
+3/13/2026 22:04,Kothrud,Other,Metro,Metro,Morning Peak (8 AM - 11 AM),24,35,Chandni Chowk,2
+3/13/2026 22:16,Shivajinagar,Hinjewadi,PMPML City Bus,PMPML City Bus,Night (After 8 PM),109,19,None,4
+3/13/2026 22:23,Shivajinagar,Hinjewadi,Personal Two-Wheeler,Walking,Midday (11 AM - 4 PM),63,89,Yerawada/Kalyani Nagar junction,1
+3/13/2026 22:30,Other,Hinjewadi,PMPML City Bus,Walking,Morning Peak (8 AM - 11 AM),101,49,Yerawada/Kalyani Nagar junction,5
+3/13/2026 22:31,Kothrud,Swargate,Personal Two-Wheeler,PMPML City Bus,Night (After 8 PM),47,72,None,2
+3/13/2026 22:46,Pashan,Viman Nagar,Carpool,Metro,Night (After 8 PM),35,60,Yerawada/Kalyani Nagar junction,5
+3/13/2026 23:32,Baner,Swargate,Auto Rickshaw,Walking,Morning Peak (8 AM - 11 AM),35,437,Hinjewadi Traffic,1
+3/13/2026 23:34,SIT Lavale Campus,Viman Nagar,Metro,PMPML City Bus,Evening Peak (4 PM - 8 PM),36,25,None,4
+3/13/2026 23:34,Other,Swargate,Metro,None (Direct Trip),Morning Peak (8 AM - 11 AM),46,13,Yerawada/Kalyani Nagar junction,1
+3/13/2026 23:39,Shivajinagar,Other,Auto Rickshaw,Metro,Night (After 8 PM),40,179,University Circle,1
+3/13/2026 23:50,Kothrud,Other,PMPML City Bus,None (Direct Trip),Evening Peak (4 PM - 8 PM),78,20,University Circle,1
+3/13/2026 23:56,Kothrud,Other,PMPML City Bus,Walking,Morning Peak (8 AM - 11 AM),115,36,Chandni Chowk,5
+3/14/2026 0:15,Other,Viman Nagar,Carpool,PMPML City Bus,Morning Peak (8 AM - 11 AM),71,63,Waiting for Bus/Metro,4
+3/14/2026 0:54,Shivajinagar,Viman Nagar,Personal Two-Wheeler,Walking,Midday (11 AM - 4 PM),64,94,Hinjewadi Traffic,5
+3/14/2026 1:12,Shivajinagar,Pune Station,Auto Rickshaw,Metro,Evening Peak (4 PM - 8 PM),38,367,University Circle,2
+3/14/2026 1:29,SIT Lavale Campus,Pune Station,Metro,PMPML City Bus,Morning Peak (8 AM - 11 AM),52,33,Yerawada/Kalyani Nagar junction,4
+3/14/2026 1:30,Kothrud,Swargate,Cab (Ola/Uber),Walking,Morning Peak (8 AM - 11 AM),90,442,Waiting for Bus/Metro,2
+3/14/2026 1:38,SIT Lavale Campus,Swargate,Auto Rickshaw,Cab (Ola/Uber),Evening Peak (4 PM - 8 PM),49,209,Hinjewadi Traffic,2
+3/14/2026 2:12,Wakad,Kharadi,Metro,Auto Rickshaw,Midday (11 AM - 4 PM),41,10,Waiting for Bus/Metro,3
+3/14/2026 2:54,Baner,Pune Station,Personal Two-Wheeler,Walking,Midday (11 AM - 4 PM),63,100,Waiting for Bus/Metro,2
+3/14/2026 3:35,Wakad,Hinjewadi,Cab (Ola/Uber),None (Direct Trip),Evening Peak (4 PM - 8 PM),68,175,Yerawada/Kalyani Nagar junction,4
+3/14/2026 3:40,Shivajinagar,Kharadi,PMPML City Bus,Auto Rickshaw,Night (After 8 PM),51,45,Yerawada/Kalyani Nagar junction,4
+3/14/2026 3:57,Other,Hinjewadi,Cab (Ola/Uber),Walking,Evening Peak (4 PM - 8 PM),75,272,None,2
+3/14/2026 4:04,Kothrud,Pune Station,Auto Rickshaw,Cab (Ola/Uber),Midday (11 AM - 4 PM),50,391,Chandni Chowk,2
+3/14/2026 4:22,SIT Lavale Campus,Swargate,Cab (Ola/Uber),Auto Rickshaw,Night (After 8 PM),34,309,Hinjewadi Traffic,5
+3/14/2026 4:26,Other,Pune Station,Personal Two-Wheeler,Cab (Ola/Uber),Morning Peak (8 AM - 11 AM),56,68,None,3
+3/14/2026 4:54,Baner,Kharadi,Carpool,Metro,Evening Peak (4 PM - 8 PM),77,61,Chandni Chowk,3
+3/14/2026 5:03,SIT Lavale Campus,Pune Station,Carpool,PMPML City Bus,Midday (11 AM - 4 PM),79,60,Hinjewadi Traffic,1
+3/14/2026 5:06,Pashan,Kharadi,Carpool,None (Direct Trip),Midday (11 AM - 4 PM),64,92,University Circle,2
+3/14/2026 5:08,SIT Lavale Campus,Other,Personal Two-Wheeler,PMPML City Bus,Morning Peak (8 AM - 11 AM),44,100,Chandni Chowk,4
+3/14/2026 5:18,Shivajinagar,Swargate,Auto Rickshaw,None (Direct Trip),Morning Peak (8 AM - 11 AM),81,287,None,1
+3/14/2026 5:42,Wakad,Swargate,Personal Two-Wheeler,None (Direct Trip),Morning Peak (8 AM - 11 AM),64,52,Waiting for Bus/Metro,4
+3/14/2026 6:14,Kothrud,Kharadi,Personal Two-Wheeler,None (Direct Trip),Evening Peak (4 PM - 8 PM),64,77,Chandni Chowk,3
+3/14/2026 6:20,Other,Swargate,Carpool,Metro,Evening Peak (4 PM - 8 PM),69,42,Waiting for Bus/Metro,2
+3/14/2026 6:26,SIT Lavale Campus,Swargate,Metro,None (Direct Trip),Morning Peak (8 AM - 11 AM),35,33,Hinjewadi Traffic,3
+3/14/2026 6:31,SIT Lavale Campus,Hinjewadi,Carpool,Auto Rickshaw,Midday (11 AM - 4 PM),38,50,University Circle,3
+3/14/2026 7:00,Shivajinagar,Swargate,PMPML City Bus,PMPML City Bus,Morning Peak (8 AM - 11 AM),57,22,Waiting for Bus/Metro,5
+3/14/2026 7:10,Shivajinagar,Kharadi,Carpool,Cab (Ola/Uber),Midday (11 AM - 4 PM),28,55,Hinjewadi Traffic,4
+3/14/2026 7:39,Wakad,Other,Auto Rickshaw,Walking,Evening Peak (4 PM - 8 PM),43,206,University Circle,5
+3/14/2026 7:41,Kothrud,Swargate,Metro,PMPML City Bus,Morning Peak (8 AM - 11 AM),36,33,Yerawada/Kalyani Nagar junction,1
+3/14/2026 7:59,Baner,Pune Station,Cab (Ola/Uber),None (Direct Trip),Night (After 8 PM),79,320,Hinjewadi Traffic,5
+3/14/2026 8:03,Kothrud,Pune Station,Carpool,Walking,Night (After 8 PM),29,62,None,4
+3/14/2026 8:20,Shivajinagar,Hinjewadi,PMPML City Bus,Metro,Night (After 8 PM),111,22,None,3
+3/14/2026 8:29,Kothrud,Viman Nagar,Cab (Ola/Uber),Metro,Midday (11 AM - 4 PM),65,255,None,3
