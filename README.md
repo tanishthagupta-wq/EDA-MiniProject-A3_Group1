@@ -189,5 +189,5 @@ jupyter notebook Student_Commute_EDA.ipynb
 ---
 
 <p align="center">
-  Made with ❤️ by <strong>EnTC A-3, Group 1</strong> · B.Tech Sem 2
+  Made with <3 by <strong>EnTC A-3, Group 1</strong> · B.Tech Sem 2
 </p>
