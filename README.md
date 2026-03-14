@@ -45,7 +45,7 @@ From the mode of transport and travel time to bottlenecks and satisfaction score
 📦 student-commute-eda
  ┣ 📓 Student_Commute_EDA.ipynb       ← Main EDA Notebook
  ┣ 📄 student_commute_data_google_form.csv  ← Dataset (Google Form responses)
- ┣ 📄 EDA_Questions_Student-Daily-Commute-Dataset.docx  ← Questions on which we have performed the EDA
+ ┣ 📄 EDA_Questions_Student-Daily-Commute-Dataset.pdf  ← Questions on which we have performed the EDA
  ┗ 📄 README.md                        ← You are here!
 ```
 
